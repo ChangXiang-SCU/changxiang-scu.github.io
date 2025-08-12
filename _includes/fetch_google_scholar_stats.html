@@ -1,19 +1,28 @@
 <script>
     $(document).ready(function () {
+        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/';
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@';
         {% endif %}
+
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
+            var totalCitation = data['citedby'];
             document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+
+            var citationEles = document.getElementsByClassName('show_paper_citations');
+            Array.prototype.forEach.call(citationEles, function (element) {
+                var paperId = element.getAttribute('data');
+                var numCitations = data['publications'][paperId]['num_citations'];
+                element.innerHTML = 'Citations: ' + numCitations;
+            });
+
+            var citationBadgeEles = document.getElementsByClassName('show_paper_citations_badge');
+            Array.prototype.forEach.call(citationBadgeEles, function (element) {
+                var paperId = element.getAttribute('data');
+                var numCitations = data['publications'][paperId]['num_citations'];
+                var user = paperId.split(":")[0]
+                element.innerHTML = "<a href='https://scholar.google.com/citations?user=" + user + "'><img src='https://img.shields.io/badge/" + numCitations + "-/endpoint?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a>";
             });
         });
-    })
+    });
 </script>
