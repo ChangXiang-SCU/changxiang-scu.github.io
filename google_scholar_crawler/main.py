@@ -5,7 +5,6 @@ from datetime import datetime
 import os
 import time
 
-
 max_attempts = 100
 wait_seconds = 600  # 10 minutes
 
@@ -26,7 +25,6 @@ for attempt in range(1, max_attempts + 1):
         time.sleep(wait_seconds)
 else:
     print("All 100 attempts failed.")
-
 
 name = author['name']
 author['updated'] = str(datetime.now())
