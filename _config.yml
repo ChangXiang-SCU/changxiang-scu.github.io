@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xiang Chang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Master’s student at Cornell Tech applying for a PhD; research in HCI, AV–human interaction, and multimodal sensing."
+repository               : "ChangXiang-SCU/changxiang-scu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/ChangXiang-SCU"
   google_plus      :
   keybase          :
   instagram        :

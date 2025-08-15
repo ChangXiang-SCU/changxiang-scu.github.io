@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About"
+excerpt: "Xiang Chang — HCI, Human-Centered Automation, AV–Human Interaction"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -39,29 +39,134 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--**“It Must Be Gesturing Towards Me”: Gesture-Based Interaction between Autonomous Vehicles and Pedestrians.** *CHI 2024*.  
-  <span class='show_paper_citations' data='k_03qNkAAAAJ:d1gkVwhDpl0C'></span>
-
-- **Community-driven Information Accessibility: Online Sign Language Content Creation within d/Deaf Communities.** *CHI 2023*.  
-  <span class='show_paper_citations' data='k_03qNkAAAAJ:u5HHmVD_uO8C'></span>
-
-- **Influencing Factors of Resident Satisfaction in Smart Community Services: An Empirical Study in Chengdu.** 2022.  
-  <span class='show_paper_citations' data='k_03qNkAAAAJ:u-x6o8ySG0sC'></span>
-
-- **Study on the Influencing Factors of Health Information Sharing Behavior of the Elderly under the Normalization of the Pandemic.** 2021.  
-  <span class='show_paper_citations' data='k_03qNkAAAAJ:9yKSN-GCB0IC'></span>
-
-- **From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario.** *arXiv 2025*.  
-  <span class='show_paper_citations' data='k_03qNkAAAAJ:UeHWp8X0CEIC'></span>
-</div>
+<!-- CHI 2023 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CHI 2023</div>
+      <img src='images/pubs/chi2023_accessibility.jpg' alt="Community-driven sign-language content creation" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Community-driven Information Accessibility: Online Sign Language Content Creation within d/Deaf Communities.**  
+*CHI Conference on Human Factors in Computing Systems, 2023.*  
+<span class='show_paper_citations' data='k_03qNkAAAAJ:u5HHmVD_uO8C'></span> · [DOI](https://doi.org/10.1145/3544548.3581286) · [PDF](#)
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- ICEB 2022 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">2022</div>
+      <img src='images/pubs/iceb2022_smart_community.jpg' alt="Smart community service satisfaction" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Influencing Factors of Resident Satisfaction in Smart Community Services: An Empirical Study in Chengdu.**  
+*ICEB 2022.*  
+<span class='show_paper_citations' data='k_03qNkAAAAJ:u-x6o8ySG0sC'></span> · [PDF](#)
+  </div>
+</div>
+
+<!-- ICEB 2021 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">2021</div>
+      <img src='images/pubs/iceb2021_health_info.jpg' alt="Health information sharing of the elderly" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Study on the Influencing Factors of Health Information Sharing Behavior of the Elderly under the Normalization of the Pandemic Situation.**  
+*ICEB 2021 — Best Paper.*  
+<span class='show_paper_citations' data='k_03qNkAAAAJ:9yKSN-GCB0IC'></span> · [PDF](#)
+  </div>
+</div>
+
+<!-- arXiv 2025 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2025</div>
+      <img src='images/pubs/mas_to_mars.jpg' alt="MARS: hierarchical multi-agent robotic systems" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario.**  
+*arXiv, 2025.*  
+<span class='show_paper_citations' data='k_03qNkAAAAJ:UeHWp8X0CEIC'></span> · [PDF](#) · [Code](#)
+  </div>
+</div>
+
+---
+<span class='anchor' id='projects'></span>
+## Projects
+
+<!-- Project 1 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AutomotiveUI 2025</div>
+      <img src='images/projects/contingent_avs.jpg' alt="Contingent AV driving behavior study" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Socially Adaptive AVs: Drivers’ Experiences under Contingent Driving.**  
+VR driving-simulator study comparing **contingent** vs. always/never-yield AV policies; contingent behavior reduced hesitation and stress.  
+[Paper](#) · [Preprint](#) · [Video](#)
+  </div>
+</div>
+
+<!-- Project 2 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Stanford VSR 2025</div>
+      <img src='images/projects/mind_wandering.jpg' alt="Mind-wandering detection pipeline" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Mind-Wandering Detection in Automated Urban Driving.**  
+Built a real-time Unity → eye tracking + PPG pipeline (event tagging, IBI/HRV) to study attention in automated urban driving.  
+[Demo](#) · [Code](#)
+  </div>
+</div>
+
+<!-- Project 3 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">On-road</div>
+      <img src='images/projects/robotaxi_trust.jpg' alt="Robotaxi first-ride trust" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Robotaxi First-Ride Trust.**  
+On-road study of fully driverless rides; modeling **first-ride trust formation** and its evolution after exposure.  
+[Preprint](#)
+  </div>
+</div>
+
+<!-- Project 4 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">eHMI</div>
+      <img src='images/projects/gesture_ehmi.jpg' alt="Gesture-based eHMI prototypes" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Gesture-based eHMI.**  
+Prototyped and evaluated **gesture-based** external HMI for AV–pedestrian communication; informs the CHI’24 paper above.  
+[Design Notes](#) · [Video](#)
+  </div>
+</div>
+
+---
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
