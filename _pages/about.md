@@ -17,9 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I’m **Xiang Chang** — a master’s student in Connective Media at **Cornell Tech** (’26) preparing a PhD application. I study how people interact with **automation** in safety-critical contexts, especially **autonomous vehicles (AVs)**. My goal is to design interfaces and behaviors that communicate intent clearly, adapt to the human in the loop, and maintain **trust and safety** from first contact to long-term use.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research threads come together around three themes:  
+1) **Human-centered automation & HCI** — modeling how drivers and pedestrians perceive, predict, and calibrate trust in automated systems;  
+2) **AV–human interaction (eHMI & policy)** — designing expressive, legible cues (e.g., gesture-based eHMI) and evaluating AV yielding policies that reduce hesitation and conflict;  
+3) **Multimodal sensing for cognition** — building pipelines that pair **eye tracking** and **PPG/HRV** with behavioral events in VR and on-road studies to capture attention, workload, and confidence in real time.
+
+Methodologically, I combine **experimental design** (lab/VR field studies), lightweight **prototyping** (Unity/Unreal, web), and **signal processing** to translate noisy, real-world data into interpretable measures—then close the loop with design/behavior changes. I’ve worked with **Tobii** eye trackers and **Polar** PPG, built time-aligned logging for event streams and physiology, and analyzed trust/hesitation as outcomes that interfaces can meaningfully shift.
+
+My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on **contingent AV driving** accepted to **AutomotiveUI 2025**. Ongoing projects explore first-ride trust in fully driverless services and mind-wandering detection in automated urban driving. I also review for **CHI**, **AutomotiveUI**, and **Transportation Research Part F**. I’m actively seeking **PhD opportunities (Fall 2026)** and collaborations that blend behavioral science with robust sensing and prototyping.
+
+**Google Scholar citations**  
+<a href='https://scholar.google.com/citations?user=k_03qNkAAAAJ'>
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
+
 
 
 # 🔥 News
@@ -31,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**“It Must Be Gesturing Towards Me”: Gesture-Based Interaction between Autonomous Vehicles and Pedestrians.** *CHI 2024*.  
+-**“It Must Be Gesturing Towards Me”: Gesture-Based Interaction between Autonomous Vehicles and Pedestrians.** *CHI 2024*.  
   <span class='show_paper_citations' data='k_03qNkAAAAJ:d1gkVwhDpl0C'></span>
 
 - **Community-driven Information Accessibility: Online Sign Language Content Creation within d/Deaf Communities.** *CHI 2023*.  
