@@ -159,8 +159,8 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   </div>
   <div class='paper-box-text' markdown="1">
 **From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario.**
-*arXiv, 2025.*
-<span class='show_paper_citations' data='k_03qNkAAAAJ:UeHWp8X0CEIC'></span> · [PDF](https://arxiv.org/abs/2508.04691) · [Code](https://arxiv.org/abs/2508.04691)
+*arXiv preprint, 2025 — AAAI 2026 under review.*
+<span class='show_paper_citations' data='k_03qNkAAAAJ:UeHWp8X0CEIC'></span> · [PDF](https://arxiv.org/abs/2508.04691)
   </div>
 </div>
 
@@ -168,6 +168,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
 - **An EEG Dataset for Understanding Driving Expertise from Naturalistic Urban Road Experiments.** (Scientific Data, under review) · [Code](https://github.com/AIR-DISCOVER/ExpertDrivingDataset.git)
 - **From Driver to Passenger: Understanding Evaluation Gaps in "Fantastic" Driving Behaviour Delivery.** (CSCW 2026, under review)
 - **Users’ Trust Evolvement in Fully Driverless Robotaxis During First Ride: An On-road Study.** (Human Factors, under review)
+- **From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario.** (AAAI 2026, under review) · [arXiv](https://arxiv.org/abs/2508.04691)
 
 ---
 <span class='anchor' id='projects'></span>
@@ -230,6 +231,20 @@ On-road study of fully driverless rides; modeling **first-ride trust formation**
 **Gesture-based eHMI.**
 Prototyped and evaluated **gesture-based** external HMI for AV–pedestrian communication; informs the CHI’24 paper above.
 [Paper](https://doi.org/10.1145/3613904.3642029)
+  </div>
+</div>
+
+<!-- Project 5 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Healthcare MARS</div>
+      <img src='images/500x300.png' alt="Multi-agent robotic systems for ER onboarding" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Multi-Agent Robotic Systems for ER Onboarding.**
+Designed hierarchical agent roles, dependency-aware tasks, and feedback loops (AutoGen/CrewAI) to improve emergency-room task success from **45% → 89%**; studying stability and coordination failures for AAAI 2026 submission.
   </div>
 </div>
 
