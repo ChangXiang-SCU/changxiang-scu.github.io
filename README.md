@@ -65,6 +65,17 @@ Some examples:
 1. If you change the source code of the website, the livereload server will automatically refresh.
 1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
 
+## Keep your local clone synced with GitHub
+
+If you already cloned this repository and want to keep it up to date with GitHub:
+
+1. Verify your remote named `origin` points to `https://github.com/changxiang-scu/changxiang-scu.github.io.git`.
+2. Fetch the latest updates: `git fetch origin main`.
+3. Update your local main branch: `git checkout main && git pull origin main`.
+4. Rebase your feature branches on top of main before pushing: `git checkout <feature-branch> && git rebase main`.
+
+These steps help you stay in sync and minimize merge conflicts before you start new changes or open pull requests.
+
 # Acknowledges
 
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
