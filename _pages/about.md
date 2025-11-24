@@ -49,7 +49,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHI 2024</div>
-      <img src='images/500x300.png' alt="Gesture-based eHMI for AVs" width="100%">
+      <img src='images/thumb_paper_2024_chi.png' alt="Gesture-based eHMI for AVs" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -64,7 +64,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">AutomotiveUI 2025</div>
-      <img src='images/500x300.png' alt="Contingent AV driving behaviors" width="100%">
+      <img src='images/thumb_paper_2025_autoui.png' alt="Contingent AV driving behaviors" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -79,7 +79,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">ASPIRE 2025</div>
-      <img src='images/500x300.png' alt="Trust formation after robotaxi rides" width="100%">
+      <img src='images/thumb_paper_2025_aspire.png' alt="Trust formation after robotaxi rides" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -94,7 +94,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">AutoUI WIP 2025</div>
-      <img src='images/500x300.png' alt="Robotaxi first-ride study" width="100%">
+      <img src='images/thumb_paper_2025_autoui.png' alt="Robotaxi first-ride study" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -109,7 +109,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHI 2023</div>
-      <img src='images/500x300.png' alt="Community-driven sign-language content creation" width="100%">
+      <img src='images/thumb_paper_2023_chi.png' alt="Community-driven sign-language content creation" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -124,7 +124,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICEB 2022</div>
-      <img src='images/500x300.png' alt="Smart community service satisfaction" width="100%">
+      <img src='images/thumb_paper_2022_iceb.png' alt="Smart community service satisfaction" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -139,7 +139,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICEB 2021</div>
-      <img src='images/500x300.png' alt="Health information sharing of the elderly" width="100%">
+      <img src='images/thumb_paper_2021_iceb.png' alt="Health information sharing of the elderly" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -154,7 +154,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">arXiv 2025</div>
-      <img src='images/500x300.png' alt="Hierarchical multi-agent robotic systems" width="100%">
+      <img src='images/thumb_paper_2025_aaai.png' alt="Hierarchical multi-agent robotic systems" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
