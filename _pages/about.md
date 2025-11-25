@@ -54,6 +54,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   </div>
   <div class='paper-box-text' markdown="1">
 **"It Must Be Gesturing Towards Me": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians.**
+**Xiang Chang**, Zihe Chen, Xiaoyan Dong, Yuxin Cai, Tingmin Yan, Haolin Cai, Zherui Zhou, Guyue Zhou, and Jiangtao Gong.
 *CHI Conference on Human Factors in Computing Systems, 2024.*
 <span class='show_paper_citations' data='k_03qNkAAAAJ:TFP_iSt0sucC'></span> · [DOI](https://doi.org/10.1145/3613904.3642029) · [PDF](https://doi.org/10.1145/3613904.3642029)
   </div>
@@ -69,6 +70,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   </div>
   <div class='paper-box-text' markdown="1">
 **Socially Adaptive Autonomous Vehicles: Effects of Contingent Driving Behavior on Drivers' Experiences.**
+Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy Ju.
 *AutomotiveUI 2025.*
 <span class='show_paper_citations' data='k_03qNkAAAAJ:IjCSPb-OGe4C'></span> · [DOI](https://doi.org/10.1145/3744333.3747814) · [PDF](https://doi.org/10.1145/3744333.3747814)
   </div>
@@ -84,6 +86,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   </div>
   <div class='paper-box-text' markdown="1">
 **The Formation of Trust in Autonomous Vehicles after Interacting with Robotaxis on Public Roads.**
+**Xiang Chang**, Zhijie Yi, Yichang Liu, Hongling Sheng, Dengbo He.
 *ASPIRE 2025.*
 [DOI](https://doi.org/10.1177/10711813251358236) · [PDF](https://doi.org/10.1177/10711813251358236)
   </div>
@@ -99,6 +102,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   </div>
   <div class='paper-box-text' markdown="1">
 **Exploring User Needs in Fully Driverless Robotaxis: A Think-Aloud Study of First-Time On-Road Rides.**
+Zhenyu Wang, Haolong Hu, Weiyin Xie, **Xiang Chang**, Peixuan Xiong, and Dengbo He.
 *AutomotiveUI 2025 Works in Progress.*
 [DOI](https://doi.org/10.1145/3744335.3758506) · [PDF](https://doi.org/10.1145/3744335.3758506)
   </div>
@@ -114,6 +118,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   </div>
   <div class='paper-box-text' markdown="1">
 **Community-driven Information Accessibility: Online Sign Language Content Creation within d/Deaf Communities.**
+Xinru Tang, **Xiang Chang**, Nuoran Chen, Yingjie Ni, RAY LC, and Xin Tong.
 *CHI Conference on Human Factors in Computing Systems, 2023.*
 <span class='show_paper_citations' data='k_03qNkAAAAJ:u5HHmVD_uO8C'></span> · [DOI](https://doi.org/10.1145/3544548.3581286) · [PDF](https://doi.org/10.1145/3544548.3581286)
   </div>
@@ -129,6 +134,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   </div>
   <div class='paper-box-text' markdown="1">
 **Influencing Factors of Resident Satisfaction in Smart Community Services: An Empirical Study in Chengdu.**
+Rongxin Jin, Yifan Liu, Lichen Yang, **Xiang Chang**.
 *ICEB 2022.*
 <span class='show_paper_citations' data='k_03qNkAAAAJ:u-x6o8ySG0sC'></span> · [PDF](https://aisel.aisnet.org/iceb2022/25)
   </div>
@@ -144,52 +150,81 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   </div>
   <div class='paper-box-text' markdown="1">
 **Study on the Influencing Factors of Health Information Sharing Behavior of the Elderly under the Normalization of the Pandemic Situation.**
+Chenyu Li, Chengxi Sun, **Xiang Chang**, Luoming Liang, Yao Ma, Fan Ke.
 *ICEB 2021 — Best Paper.*
 <span class='show_paper_citations' data='k_03qNkAAAAJ:9yKSN-GCB0IC'></span> · [PDF](https://aisel.aisnet.org/iceb2021/48)
   </div>
 </div>
 
-<!-- arXiv 2025 -->
+### Working Manuscripts & Under Review
+
+<!-- Scientific Data -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv 2025</div>
+      <div class="badge">Scientific Data</div>
+      <img src='images/thumb_paper_2025_scientific_data.png' alt="EEG Dataset for Driving Expertise" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**An EEG Dataset for Understanding Driving Expertise from Naturalistic Urban Road Experiments.**
+Jiangtao Gong, Yueteng Yu, Yancheng Cao, Ruoxuan Yang, **Xiang Chang**, Haoming Tang, Xiaoji Zheng, Yiyao Liu, Shanhe You, Chen Zheng, and Guyue Zhou.
+*Scientific Data (Under Review).*
+[Code](https://github.com/AIR-DISCOVER/ExpertDrivingDataset.git)
+  </div>
+</div>
+
+<!-- CSCW 2026 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CSCW 2026</div>
+      <img src='images/thumb_paper_2026_cscw.png' alt="Evaluation Gaps in Driving Behaviour" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**From Driver to Passenger: Understanding Evaluation Gaps in 'Fantastic' Driving Behaviour Delivery.**
+Zhijie Yi*, **Xiang Chang***, Yueteng Yu, Xinyu Yang, Junrong Lu, Yiyao Liu, Ye Jin, Mengdi Chu, Jingli Qin, Jialin Song, and Jiangtao Gong. (*Equal contribution)
+*CSCW 2026 (Under Review).*
+  </div>
+</div>
+
+<!-- AAAI 2026 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAAI 2026</div>
       <img src='images/thumb_paper_2025_aaai.png' alt="Hierarchical multi-agent robotic systems" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 **From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario.**
-*arXiv preprint, 2025 — AAAI 2026 under review.*
+Yuanchen Bai, Zijian Ding, Shaoyue Wen, **Xiang Chang**, and Angelique Taylor.
+*AAAI 2026 (Under Review).*
 <span class='show_paper_citations' data='k_03qNkAAAAJ:UeHWp8X0CEIC'></span> · [PDF](https://arxiv.org/abs/2508.04691)
   </div>
 </div>
 
-### Working manuscripts & under review
-- **An EEG Dataset for Understanding Driving Expertise from Naturalistic Urban Road Experiments.** (Scientific Data, under review) · [Code](https://github.com/AIR-DISCOVER/ExpertDrivingDataset.git)
-- **From Driver to Passenger: Understanding Evaluation Gaps in "Fantastic" Driving Behaviour Delivery.** (CSCW 2026, under review)
-- **Users’ Trust Evolvement in Fully Driverless Robotaxis During First Ride: An On-road Study.** (Human Factors, under review)
-- **From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario.** (AAAI 2026, under review) · [arXiv](https://arxiv.org/abs/2508.04691)
+<!-- Human Factors -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Human Factors</div>
+      <img src='images/thumb_paper_human_factors.png' alt="Trust Evolvement in Robotaxis" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Users’ Trust Evolvement in Fully Driverless Robotaxis During First Ride: An On-road Study.**
+Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.
+*Human Factors (Under Review).*
+  </div>
+</div>
 
 ---
 <span class='anchor' id='projects'></span>
 ## Projects
 
-<!-- Project 1 -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">AutomotiveUI 2025</div>
-      <img src='images/500x300.png' alt="Contingent AV driving behavior study" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-**Socially Adaptive AVs: Drivers’ Experiences under Contingent Driving.**
-VR driving-simulator study comparing **contingent** vs. always/never-yield AV policies; contingent behavior reduced hesitation and stress.
-[Paper](https://doi.org/10.1145/3744333.3747814)
-  </div>
-</div>
-
-<!-- Project 2 -->
+<!-- Project 2 (Mind-Wandering) - Kept as it is not a paper yet -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -204,50 +239,6 @@ Real-time integration of Tobii XR eye tracking and Polar PPG with synchronized e
   </div>
 </div>
 
-<!-- Project 3 -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">On-road</div>
-      <img src='images/500x300.png' alt="Robotaxi first-ride trust" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-**Robotaxi First-Ride Trust.**
-On-road study of fully driverless rides; modeling **first-ride trust formation** and its evolution after exposure.
-[Paper](https://doi.org/10.1177/10711813251358236)
-  </div>
-</div>
-
-<!-- Project 4 -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">eHMI</div>
-      <img src='images/500x300.png' alt="Gesture-based eHMI prototypes" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-**Gesture-based eHMI.**
-Prototyped and evaluated **gesture-based** external HMI for AV–pedestrian communication; informs the CHI’24 paper above.
-[Paper](https://doi.org/10.1145/3613904.3642029)
-  </div>
-</div>
-
-<!-- Project 5 -->
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Healthcare MARS</div>
-      <img src='images/500x300.png' alt="Multi-agent robotic systems for ER onboarding" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-**Multi-Agent Robotic Systems for ER Onboarding.**
-Designed hierarchical agent roles, dependency-aware tasks, and feedback loops (AutoGen/CrewAI) to improve emergency-room task success from **45% → 89%**; studying stability and coordination failures for AAAI 2026 submission.
-  </div>
-</div>
-
 ---
 
 # 🎖 Honors and Awards
@@ -258,10 +249,6 @@ Designed hierarchical agent roles, dependency-aware tasks, and feedback loops (A
 # 📖 Educations
 - *Aug. 2024 – May 2026*, **Cornell Tech (Cornell University)** — Jacobs Technion-Cornell Dual M.S. in Connective Media (GPA: 4.0/4.3).
 - *Sept. 2019 – July 2023*, **Sichuan University (SCU)** — B.M. in Information Resource Management (GPA: 3.75/4.0).
-
-# 💬 Invited Talks
-- *2025.06*, Session Chair remarks and discussion moderation for **ASPIRE 2025 ST4: Pedestrian Behavior & Interactions**.
-- *2024.10*, Presented **gesture-based eHMI findings** to AV HCI collaborators (based on CHI 2024 study).
 
 # 💻 Internships
 - *Jun. 2025 – Aug. 2025*, Visiting Student Researcher, **Stanford University** — mind-wandering detection in automated driving.
