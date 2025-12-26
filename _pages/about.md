@@ -253,7 +253,7 @@ Real-time integration of Tobii XR eye tracking and Polar PPG with synchronized e
 - *2019-2021* **Merit-based Scholarship**, SCU (Top 10% in department).
 
 <span class='anchor' id='educations'></span>
-# 📖 Educations
+# 📖 Education
 - *Aug. 2024 – May 2026*, **Cornell Tech (Cornell University)** — Jacobs Technion-Cornell Dual M.S. in Connective Media (GPA: 4.0/4.3).
 - *Sept. 2019 – July 2023*, **Sichuan University (SCU)** — B.M. in Information Resource Management (GPA: 3.75/4.0).
 
