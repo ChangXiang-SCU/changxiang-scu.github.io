@@ -233,7 +233,7 @@ Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.
   <div class='paper-box-image'>
     <div>
       <div class="badge">Stanford VSR 2025</div>
-      <img src='images/500x300.png?v=4' alt="Mind-wandering detection pipeline" width="100%">
+      <img src='images/thumb_project_mind_wandering.png?v=5' alt="Mind-wandering detection pipeline" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
