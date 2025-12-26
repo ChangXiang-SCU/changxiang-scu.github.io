@@ -35,6 +35,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
 
 
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.08*: &nbsp;Started a visiting student researcher stint at **Stanford University** to study mind-wandering in automated urban driving.
 - *2025.06*: &nbsp;Serving as **Session Chair (ST4: Pedestrian Behavior & Interactions)** at **ASPIRE 2025**.
@@ -244,16 +245,19 @@ Real-time integration of Tobii XR eye tracking and Polar PPG with synchronized e
 
 ---
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2025* **Gary Marsden Travel Awards**, The ACM Special Interest Group on Computer-Human Interaction.
 - *2021* **Best Paper Award**, International Conference on Electronic Business (ICEB 2021).
 - *2021* **Uniqlo Scholarship for Academic Excellence**, SCU (5/10,000 in university).
 - *2019-2021* **Merit-based Scholarship**, SCU (Top 10% in department).
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *Aug. 2024 – May 2026*, **Cornell Tech (Cornell University)** — Jacobs Technion-Cornell Dual M.S. in Connective Media (GPA: 4.0/4.3).
 - *Sept. 2019 – July 2023*, **Sichuan University (SCU)** — B.M. in Information Resource Management (GPA: 3.75/4.0).
 
+<span class='anchor' id='internships'></span>
 # 💻 Internships
 - *Jun. 2025 – Aug. 2025*, Visiting Student Researcher, **Stanford University** — mind-wandering detection in automated driving.
 - *Aug. 2024 – Present*, Graduate Researcher, **Cornell Tech** — multi-agent robotic systems for ER onboarding and AV driver negotiation.
