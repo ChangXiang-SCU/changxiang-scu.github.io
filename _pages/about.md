@@ -225,7 +225,7 @@ Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.
 
 ---
 <span class='anchor' id='projects'></span>
-## Projects
+# 🛠 Projects
 
 <!-- Project 2 (Mind-Wandering) - Kept as it is not a paper yet -->
 <div class='paper-box'>
