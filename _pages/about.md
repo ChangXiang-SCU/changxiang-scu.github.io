@@ -100,7 +100,7 @@ Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy J
   <div class='paper-box-image'>
     <div>
       <div class="badge">AutoUI WIP 2025</div>
-      <img src='images/thumb_paper_2025_autoui.png?v=2' alt="Robotaxi first-ride study" width="100%">
+      <img src='images/thumb_paper_2025_autoui_wip.png?v=3' alt="Robotaxi first-ride study" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -182,7 +182,7 @@ Jiangtao Gong, Yueteng Yu, Yancheng Cao, Ruoxuan Yang, **Xiang Chang**, Haoming 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CSCW 2026</div>
-      <img src='images/thumb_paper_2026_cscw.png?v=2' alt="Evaluation Gaps in Driving Behaviour" width="100%">
+      <img src='images/thumb_paper_2026_cscw.png?v=3' alt="Evaluation Gaps in Driving Behaviour" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -213,7 +213,7 @@ Yuanchen Bai, Zijian Ding, Shaoyue Wen, **Xiang Chang**, and Angelique Taylor.
   <div class='paper-box-image'>
     <div>
       <div class="badge">Human Factors</div>
-      <img src='images/thumb_paper_human_factors.png?v=2' alt="Trust Evolvement in Robotaxis" width="100%">
+      <img src='images/thumb_paper_human_factors.png?v=3' alt="Trust Evolvement in Robotaxis" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
