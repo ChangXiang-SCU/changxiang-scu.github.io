@@ -65,7 +65,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">AutomotiveUI 2025</div>
-      <video width="100%" autoplay loop muted playsinline poster="images/thumb_paper_2025_autoui.png">
+      <video width="100%" controls playsinline poster="images/thumb_paper_2025_autoui.png">
         <source src="images/paper_2025_autoui.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
