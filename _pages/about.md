@@ -49,7 +49,7 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHI 2024</div>
-      <img src='images/thumb_paper_2024_chi.png' alt="Gesture-based eHMI for AVs" width="100%">
+      <img src='images/thumb_paper_2024_chi.png?v=2' alt="Gesture-based eHMI for AVs" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -65,8 +65,8 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
   <div class='paper-box-image'>
     <div>
       <div class="badge">AutomotiveUI 2025</div>
-      <video width="100%" controls playsinline poster="images/thumb_paper_2025_autoui.png">
-        <source src="images/paper_2025_autoui.mp4" type="video/mp4">
+      <video width="100%" controls playsinline poster="images/thumb_paper_2025_autoui.png?v=2">
+        <source src="images/paper_2025_autoui.mp4?v=2" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
@@ -84,7 +84,7 @@ Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy J
   <div class='paper-box-image'>
     <div>
       <div class="badge">ASPIRE 2025</div>
-      <img src='images/thumb_paper_2025_aspire.png' alt="Trust formation after robotaxi rides" width="100%">
+      <img src='images/thumb_paper_2025_aspire.png?v=2' alt="Trust formation after robotaxi rides" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -100,7 +100,7 @@ Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy J
   <div class='paper-box-image'>
     <div>
       <div class="badge">AutoUI WIP 2025</div>
-      <img src='images/thumb_paper_2025_autoui.png' alt="Robotaxi first-ride study" width="100%">
+      <img src='images/thumb_paper_2025_autoui.png?v=2' alt="Robotaxi first-ride study" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -116,7 +116,7 @@ Zhenyu Wang, Haolong Hu, Weiyin Xie, **Xiang Chang**, Peixuan Xiong, and Dengbo 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CHI 2023</div>
-      <img src='images/thumb_paper_2023_chi.png' alt="Community-driven sign-language content creation" width="100%">
+      <img src='images/thumb_paper_2023_chi.png?v=2' alt="Community-driven sign-language content creation" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -132,7 +132,7 @@ Xinru Tang, **Xiang Chang**, Nuoran Chen, Yingjie Ni, RAY LC, and Xin Tong.
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICEB 2022</div>
-      <img src='images/thumb_paper_2022_iceb.png' alt="Smart community service satisfaction" width="100%">
+      <img src='images/thumb_paper_2022_iceb.png?v=2' alt="Smart community service satisfaction" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -148,7 +148,7 @@ Rongxin Jin, Yifan Liu, Lichen Yang, **Xiang Chang**.
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICEB 2021</div>
-      <img src='images/thumb_paper_2021_iceb.png' alt="Health information sharing of the elderly" width="100%">
+      <img src='images/thumb_paper_2021_iceb.png?v=2' alt="Health information sharing of the elderly" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -166,7 +166,7 @@ Chenyu Li, Chengxi Sun, **Xiang Chang**, Luoming Liang, Yao Ma, Fan Ke.
   <div class='paper-box-image'>
     <div>
       <div class="badge">Scientific Data</div>
-      <img src='images/thumb_paper_2025_scientific_data.png' alt="EEG Dataset for Driving Expertise" width="100%">
+      <img src='images/thumb_paper_2025_scientific_data.png?v=2' alt="EEG Dataset for Driving Expertise" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -182,7 +182,7 @@ Jiangtao Gong, Yueteng Yu, Yancheng Cao, Ruoxuan Yang, **Xiang Chang**, Haoming 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CSCW 2026</div>
-      <img src='images/thumb_paper_2026_cscw.png' alt="Evaluation Gaps in Driving Behaviour" width="100%">
+      <img src='images/thumb_paper_2026_cscw.png?v=2' alt="Evaluation Gaps in Driving Behaviour" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -197,7 +197,7 @@ Zhijie Yi*, **Xiang Chang***, Yueteng Yu, Xinyu Yang, Junrong Lu, Yiyao Liu, Ye 
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAAI 2026</div>
-      <img src='images/thumb_paper_2025_aaai.png' alt="Hierarchical multi-agent robotic systems" width="100%">
+      <img src='images/thumb_paper_2025_aaai.png?v=2' alt="Hierarchical multi-agent robotic systems" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -213,7 +213,7 @@ Yuanchen Bai, Zijian Ding, Shaoyue Wen, **Xiang Chang**, and Angelique Taylor.
   <div class='paper-box-image'>
     <div>
       <div class="badge">Human Factors</div>
-      <img src='images/thumb_paper_human_factors.png' alt="Trust Evolvement in Robotaxis" width="100%">
+      <img src='images/thumb_paper_human_factors.png?v=2' alt="Trust Evolvement in Robotaxis" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -232,7 +232,7 @@ Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.
   <div class='paper-box-image'>
     <div>
       <div class="badge">Stanford VSR 2025</div>
-      <img src='images/500x300.png' alt="Mind-wandering detection pipeline" width="100%">
+      <img src='images/500x300.png?v=2' alt="Mind-wandering detection pipeline" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
