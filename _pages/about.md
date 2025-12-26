@@ -245,9 +245,10 @@ Real-time integration of Tobii XR eye tracking and Polar PPG with synchronized e
 ---
 
 # 🎖 Honors and Awards
-- *2025.06* Session Chair, **ASPIRE 2025 (ST4: Pedestrian Behavior & Interactions)**.
-- *2021.12* **Best Paper Award**, ICEB 2021.
-- *2021.06* Project lead, provincial innovation & entrepreneurship competition on **smart community services**.
+- *2025* **Gary Marsden Travel Awards**, The ACM Special Interest Group on Computer-Human Interaction.
+- *2021* **Best Paper Award**, International Conference on Electronic Business (ICEB 2021).
+- *2021* **Uniqlo Scholarship for Academic Excellence**, SCU (5/10,000 in university).
+- *2019-2021* **Merit-based Scholarship**, SCU (Top 10% in department).
 
 # 📖 Educations
 - *Aug. 2024 – May 2026*, **Cornell Tech (Cornell University)** — Jacobs Technion-Cornell Dual M.S. in Connective Media (GPA: 4.0/4.3).
