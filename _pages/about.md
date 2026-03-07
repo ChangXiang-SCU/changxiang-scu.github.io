@@ -228,6 +228,21 @@ Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.
 <span class='anchor' id='projects'></span>
 # 🛠 Projects
 
+<!-- Project: Interactive Device Design Labs -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Cornell Tech INFO5345</div>
+      <img src='images/thumb_project_lab_hub.png?v=1' alt="Interactive Device Design Projects" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**Interactive Device Design (Course Projects).**
+A collection of physical computing and interactive prototyping projects utilizing Raspberry Pi, sensors, and actuators to build novel HCI hardware interfaces. Includes experiments with voice interaction (Chatterboxes), physical UIs (Ph-UI), and observant systems.
+[GitHub Repository](https://github.com/ChangXiang-SCU/Interactive-Lab-Hub)
+  </div>
+</div>
+
 <!-- Project 2 (Mind-Wandering) - Kept as it is not a paper yet -->
 <div class='paper-box'>
   <div class='paper-box-image'>
