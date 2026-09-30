@@ -264,7 +264,7 @@ Zhijie Yi\*, **Xiang Chang\***, Yueteng Yu, Xinyu Yang, Junrong Lu, Yiyao Liu, Y
 
 - **Social Situation Awareness in Driver-Pedestrian Interactions.** **Xiang Chang**, Stacey Li, David Goedicke, Chishang "Mario" Yang, Patrick Lo, Almog Sharon, Avi Parush, Wendy Ju, and Debargha Dey.
 - **From Human Teams to Human-Robot Teams: A Systematic Review of Situation Awareness Measurement Methods.** **Xiang Chang**, Zhijie Yi, Jinghao Huang, Chenglin Liu, Yueteng Yu, Zhenyu Wang, Yan Zhang, Jiyao Wang, and Dengbo He.
-- **Supporting Simulated Resuscitation Teams with Multimodal Robotic Feedback: A Qualitative Study of a Robotic Crash Cart.** **Xiang Chang**, et al.
+- **Supporting Simulated Resuscitation Teams with Multimodal Robotic Feedback: A Qualitative Study of a Robotic Crash Cart.** **Xiang Chang**.
 - **FADEx: Function-Aware and Expression-Prioritized Construction of a Motion Prototype Library for Robot Comforting.** Ziyi Chen\*, **Xiang Chang\***, Junshi Luo, Dengbo He, Yuyang Wang, S. W. Ricky Lee, and Chencheng Dong.
 - **GraspAuto: A Unity Toolkit for Surface-Selected Grasp Authoring on Late-Bound 3D Objects.** Qingxuan Yan\*, **Xiang Chang\***, and Dengbo He.
 - **Same Trashbot, Different Streets: Local Legibility in Cross-Community Public Robot Deployment.** Ruixiang Han, Sirui Wang, Chenchen Zheng, **Xiang Chang**, Yuanchen Bai, Hauke Sandhaus, Fanjun Bu, Angelique Taylor, and Wendy Ju.
