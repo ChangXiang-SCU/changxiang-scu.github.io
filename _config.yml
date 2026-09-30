@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiang Chang"
-description              : "Master’s student at Cornell Tech applying for a PhD; research in HCI, AV–human interaction, and multimodal sensing."
+description              : "PhD student in Robotics and Autonomous Systems at HKUST (Guangzhou); research in HCI/HRI, human factors of automated driving, and multimodal physiological sensing."
 repository               : "ChangXiang-SCU/changxiang-scu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiang Chang"
-  avatar           : "images/XiangChang.jpg"
-  bio              : "Cornell University Cornell Tech"
-  location         : "New York, US"
+  avatar           : "images/XiangChang_2026.jpg"
+  bio              : "PhD Student, HKUST (Guangzhou)"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=k_03qNkAAAAJ"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "xiangchang"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

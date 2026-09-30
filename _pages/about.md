@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Xiang Chang — HCI, Human-Centered Automation, AV–Human Interaction"
+excerpt: "Xiang Chang, PhD student at HKUST (Guangzhou): HCI/HRI, human factors of automated driving, multimodal sensing"
 author_profile: true
 redirect_from:
   - /about/
@@ -17,16 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m **Xiang Chang** — a master’s student in Connective Media at **Cornell Tech** (’26) preparing a PhD application. I study how people interact with **automation** in safety-critical contexts, especially **autonomous vehicles (AVs)**. My goal is to design interfaces and behaviors that communicate intent clearly, adapt to the human in the loop, and maintain **trust and safety** from first contact to long-term use.
+Hi! I'm **Xiang Chang (畅想)**, a PhD student in **Robotics and Autonomous Systems** at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by **Prof. Dengbo He** and co-advised by **Prof. Jun Ma**. I received dual M.S. degrees from **Cornell Tech** in 2026, where I worked with **Prof. Wendy Ju** and **Prof. Angelique Taylor**, and I was a visiting student researcher at **Stanford University** in summer 2025.
 
-My research threads come together around three themes:  
-1) **Human-centered automation & HCI** — modeling how drivers and pedestrians perceive, predict, and calibrate trust in automated systems;  
-2) **AV–human interaction (eHMI & policy)** — designing expressive, legible cues (e.g., gesture-based eHMI) and evaluating AV yielding policies that reduce hesitation and conflict;  
-3) **Multimodal sensing for cognition** — building pipelines that pair **eye tracking** and **PPG/HRV** with behavioral events in VR and on-road studies to capture attention, workload, and confidence in real time.
+I study how people interact with automated and robotic systems in safety-critical settings, especially **autonomous vehicles**. My work spans four threads:  
+1) **Human factors and safety of automated driving**: how drivers, passengers, and pedestrians perceive, predict, and calibrate trust in AVs and robotaxis;  
+2) **HCI/HRI for intent communication**: legible cues and adaptive behaviors, such as gesture-based eHMI and socially adaptive AV driving policies;  
+3) **Multimodal physiological sensing**: EEG, eye tracking, and PPG/HRV pipelines for real-time driver-state estimation in VR, simulator, and on-road studies;  
+4) **LLM-based multi-agent systems**: understanding how agent teams coordinate and fail in safety-critical workflows such as emergency care.
 
-Methodologically, I combine **experimental design** (lab/VR field studies), lightweight **prototyping** (Unity/Unreal, web), and **signal processing** to translate noisy, real-world data into interpretable measures—then close the loop with design/behavior changes. I’ve worked with **Tobii** eye trackers and **Polar** PPG, built time-aligned logging for event streams and physiology, and analyzed trust/hesitation as outcomes that interfaces can meaningfully shift.
-
-My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on **contingent AV driving** accepted to **AutomotiveUI 2025**. Ongoing projects explore first-ride trust in fully driverless services and mind-wandering detection in automated urban driving. I also review for **CHI**, **AutomotiveUI**, and **Transportation Research Part F**. I’m actively seeking **PhD opportunities (Fall 2026)** and collaborations that blend behavioral science with robust sensing and prototyping.
+My work has appeared at **CHI**, **AutomotiveUI**, **HFES ASPIRE**, and **SIGGRAPH (Posters)**, and in **Human Factors** and **Scientific Data**. I review for **CHI**, **AutomotiveUI**, **Transportation Research Part F**, and **Acta Psychologica**.
 
 **Google Scholar citations**  
 <a href='https://scholar.google.com/citations?user=k_03qNkAAAAJ'>
@@ -37,29 +36,55 @@ My recent work includes papers at **CHI 2023** and **CHI 2024**, plus a study on
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.08*: &nbsp;Started a visiting student researcher stint at **Stanford University** to study mind-wandering in automated urban driving.
-- *2025.06*: &nbsp;Serving as **Session Chair (ST4: Pedestrian Behavior & Interactions)** at **ASPIRE 2025**.
-- *2025.05*: &nbsp;Our paper on **contingent AV driving behaviors** was accepted to **AutomotiveUI 2025**.
+- *2026.09*: &nbsp;Started my PhD in Robotics and Autonomous Systems at **HKUST (Guangzhou)**, advised by Prof. Dengbo He.
+- *2026.07*: &nbsp;**CTA-STGT**, our work on EEG-based eVTOL pilot workload estimation, was accepted to **AutomotiveUI 2026 Works in Progress**.
+- *2026.07*: &nbsp;**Beyond Benchmark Accuracy** was accepted to the **COLM 2026 Workshop on LLM/VLM Deployment Opportunities and Risks in Healthcare**.
+- *2026.05*: &nbsp;**GraspAuto** was accepted to **SIGGRAPH 2026 Posters** (91 of 379 submissions accepted).
+- *2026.05*: &nbsp;Graduated from **Cornell Tech** with dual M.S. degrees.
+- *2026.04*: &nbsp;Our naturalistic-driving EEG dataset was published in **Scientific Data**.
+- *2025.10*: &nbsp;Presented our robotaxi trust study and served as **Session Chair (ST4: Pedestrian Behavior & Interactions)** at **HFES ASPIRE 2025** in Chicago.
+- *2025.06*: &nbsp;Joined **Stanford University** as a visiting student researcher to study mind-wandering in automated urban driving.
+- *2025.06*: &nbsp;Our paper on **contingent AV driving behaviors** was accepted to **AutomotiveUI 2025**.
 - *2024.04*: &nbsp;Published our work on **gesture-based eHMI for AV–pedestrian interaction** at **CHI 2024**.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-<!-- CHI 2024 -->
+### Journal Articles
+
+<!-- Human Factors 2026 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CHI 2024</div>
-      <img src='images/thumb_paper_2024_chi.png?v=4' alt="Gesture-based eHMI for AVs" width="100%">
+      <div class="badge">Human Factors 2026</div>
+      <img src='images/thumb_paper_human_factors.png?v=4' alt="Trust Evolvement in Robotaxis" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**"It Must Be Gesturing Towards Me": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians.**
-**Xiang Chang**, Zihe Chen, Xiaoyan Dong, Yuxin Cai, Tingmin Yan, Haolin Cai, Zherui Zhou, Guyue Zhou, and Jiangtao Gong.
-*CHI Conference on Human Factors in Computing Systems, 2024.*
-<span class='show_paper_citations' data='k_03qNkAAAAJ:TFP_iSt0sucC'></span> · [DOI](https://doi.org/10.1145/3613904.3642029) · [PDF](https://doi.org/10.1145/3613904.3642029)
+**Users’ Trust Evolvement in Fully Driverless Robotaxis During First Ride: An On-Road Study.**
+Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.
+*Human Factors*, 68(6), 788–805, 2026.
+[DOI](https://doi.org/10.1177/00187208261420147)
   </div>
 </div>
+
+<!-- Scientific Data 2026 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Scientific Data 2026</div>
+      <img src='images/thumb_paper_2025_scientific_data.png?v=4' alt="EEG Dataset for Driving Expertise" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+**An EEG Dataset for Understanding Driving Expertise from Naturalistic Urban Road Experiments.**
+Jiangtao Gong, Yueteng Yu, Yancheng Cao, Ruoxuan Yang, **Xiang Chang**, Haoming Tang, Xiaoji Zheng, Yiyao Liu, Shanhe You, Chen Zheng, and Guyue Zhou.
+*Scientific Data*, 13, 884, 2026.
+[DOI](https://doi.org/10.1038/s41597-026-07223-1) · [Code](https://github.com/AIR-DISCOVER/ExpertDrivingDataset)
+  </div>
+</div>
+
+### Conference Papers
 
 <!-- AutomotiveUI 2025 -->
 <div class='paper-box'>
@@ -91,24 +116,24 @@ Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy J
   <div class='paper-box-text' markdown="1">
 **The Formation of Trust in Autonomous Vehicles after Interacting with Robotaxis on Public Roads.**
 **Xiang Chang**, Zhijie Yi, Yichang Liu, Hongling Sheng, Dengbo He.
-*ASPIRE 2025.*
+*HFES ASPIRE 2025.*
 [DOI](https://doi.org/10.1177/10711813251358236) · [PDF](https://doi.org/10.1177/10711813251358236)
   </div>
 </div>
 
-<!-- AutoUI 2025 WIP -->
+<!-- CHI 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">AutoUI WIP 2025</div>
-      <img src='images/thumb_paper_2025_autoui_wip.png?v=4' alt="Robotaxi first-ride study" width="100%">
+      <div class="badge">CHI 2024</div>
+      <img src='images/thumb_paper_2024_chi.png?v=4' alt="Gesture-based eHMI for AVs" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Exploring User Needs in Fully Driverless Robotaxis: A Think-Aloud Study of First-Time On-Road Rides.**
-Zhenyu Wang, Haolong Hu, Weiyin Xie, **Xiang Chang**, Peixuan Xiong, and Dengbo He.
-*AutomotiveUI 2025 Works in Progress.*
-[DOI](https://doi.org/10.1145/3744335.3758506) · [PDF](https://doi.org/10.1145/3744335.3758506)
+**"It Must Be Gesturing Towards Me": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians.**
+**Xiang Chang**, Zihe Chen, Xiaoyan Dong, Yuxin Cai, Tingmin Yan, Haolin Cai, Zherui Zhou, Guyue Zhou, and Jiangtao Gong.
+*CHI Conference on Human Factors in Computing Systems, 2024.*
+<span class='show_paper_citations' data='k_03qNkAAAAJ:TFP_iSt0sucC'></span> · [DOI](https://doi.org/10.1145/3613904.3642029) · [PDF](https://doi.org/10.1145/3613904.3642029)
   </div>
 </div>
 
@@ -160,69 +185,90 @@ Chenyu Li, Chengxi Sun, **Xiang Chang**, Luoming Liang, Yao Ma, Fan Ke.
   </div>
 </div>
 
-### Working Manuscripts & Under Review
+### Posters, Workshops & Extended Abstracts
 
-<!-- Scientific Data -->
+<!-- SIGGRAPH 2026 Posters -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Scientific Data</div>
-      <img src='images/thumb_paper_2025_scientific_data.png?v=4' alt="EEG Dataset for Driving Expertise" width="100%">
+      <div class="badge">SIGGRAPH 2026 Posters</div>
+      <img src='images/thumb_paper_2026_siggraph.png?v=1' alt="GraspAuto single-tap grasp authoring" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**An EEG Dataset for Understanding Driving Expertise from Naturalistic Urban Road Experiments.**
-Jiangtao Gong, Yueteng Yu, Yancheng Cao, Ruoxuan Yang, **Xiang Chang**, Haoming Tang, Xiaoji Zheng, Yiyao Liu, Shanhe You, Chen Zheng, and Guyue Zhou.
-*Scientific Data (Under Review).*
-[Code](https://github.com/AIR-DISCOVER/ExpertDrivingDataset.git)
+**GraspAuto: Real-Time Single-Tap Grasp Authoring for VR/AR Experiences.**
+Qingxuan Yan and **Xiang Chang**.
+*SIGGRAPH 2026 Posters.*
+[DOI](https://doi.org/10.1145/3799825.3818766)
   </div>
 </div>
 
-<!-- CSCW 2026 -->
+<!-- AutoUI 2025 WIP -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CSCW 2026</div>
-      <img src='images/thumb_paper_2026_cscw.png?v=4' alt="Evaluation Gaps in Driving Behaviour" width="100%">
+      <div class="badge">AutoUI WIP 2025</div>
+      <img src='images/thumb_paper_2025_autoui_wip.png?v=4' alt="Robotaxi first-ride study" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**From Driver to Passenger: Understanding Evaluation Gaps in 'Fantastic' Driving Behaviour Delivery.**
-Zhijie Yi*, **Xiang Chang***, Yueteng Yu, Xinyu Yang, Junrong Lu, Yiyao Liu, Ye Jin, Mengdi Chu, Jingli Qin, Jialin Song, and Jiangtao Gong. (*Equal contribution)
-*CSCW 2026 (Under Review).*
+**Exploring User Needs in Fully Driverless Robotaxis: A Think-Aloud Study of First-Time On-Road Rides.**
+Zhenyu Wang, Haolong Hu, Weiyin Xie, **Xiang Chang**, Peixuan Xiong, and Dengbo He.
+*AutomotiveUI 2025 Works in Progress.*
+[DOI](https://doi.org/10.1145/3744335.3758506) · [PDF](https://doi.org/10.1145/3744335.3758506)
   </div>
 </div>
 
-<!-- AAAI 2026 -->
+- **CTA-STGT: A Cortical Topology-Aware Spatiotemporal Graph Transformer for EEG-Based eVTOL Pilot Cognitive Workload Estimation.**
+  Chenglin Liu, Wenjun Zhang, Zhijie Yi, Jiyao Wang, **Xiang Chang**, and Dengbo He.
+  *AutomotiveUI 2026 Works in Progress.*
+- **Beyond Benchmark Accuracy: Failure Modes of Multi-Agent Coordination in Safety-Critical Clinical Workflows.**
+  Yuanchen Bai, Zijian Ding, **Xiang Chang**, and Angelique Taylor.
+  *COLM 2026 Workshop on LLM/VLM Deployment Opportunities and Risks in Healthcare.* [OpenReview](https://openreview.net/forum?id=XBc56Lvgzz)
+
+### Preprints
+
+<!-- MARS (arXiv) -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">AAAI 2026</div>
+      <div class="badge">arXiv 2025</div>
       <img src='images/thumb_paper_2025_aaai.png?v=4' alt="Hierarchical multi-agent robotic systems" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 **From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario.**
 Yuanchen Bai, Zijian Ding, Shaoyue Wen, **Xiang Chang**, and Angelique Taylor.
-*AAAI 2026 (Under Review).*
-<span class='show_paper_citations' data='k_03qNkAAAAJ:UeHWp8X0CEIC'></span> · [PDF](https://arxiv.org/abs/2508.04691)
+*arXiv:2508.04691.*
+<span class='show_paper_citations' data='k_03qNkAAAAJ:UeHWp8X0CEIC'></span> · [arXiv](https://arxiv.org/abs/2508.04691)
   </div>
 </div>
 
-<!-- Human Factors -->
+<!-- From Driver to Passenger (arXiv) -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Human Factors</div>
-      <img src='images/thumb_paper_human_factors.png?v=4' alt="Trust Evolvement in Robotaxis" width="100%">
+      <div class="badge">arXiv</div>
+      <img src='images/thumb_paper_2026_cscw.png?v=4' alt="Evaluation Gaps in Driving Behaviour" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Users’ Trust Evolvement in Fully Driverless Robotaxis During First Ride: An On-road Study.**
-Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.
-*Human Factors (Under Review).*
+**From Driver to Passenger: Understanding Evaluation Gaps in 'Fantastic' Driving Behaviour Delivery.**
+Zhijie Yi\*, **Xiang Chang\***, Yueteng Yu, Xinyu Yang, Junrong Lu, Yiyao Liu, Ye Jin, Mengdi Chu, Jingli Qin, Jialin Song, and Jiangtao Gong. (\*Equal contribution)
+*arXiv:2311.04150.*
+[arXiv](https://arxiv.org/abs/2311.04150)
   </div>
 </div>
+
+### Under Review
+
+- **Social Situation Awareness in Driver-Pedestrian Interactions.** **Xiang Chang**, Stacey Li, David Goedicke, Chishang "Mario" Yang, Patrick Lo, Almog Sharon, Avi Parush, Wendy Ju, and Debargha Dey.
+- **From Human Teams to Human-Robot Teams: A Systematic Review of Situation Awareness Measurement Methods.** **Xiang Chang**, Zhijie Yi, Jinghao Huang, Chenglin Liu, Yueteng Yu, Zhenyu Wang, Yan Zhang, Jiyao Wang, and Dengbo He.
+- **Supporting Simulated Resuscitation Teams with Multimodal Robotic Feedback: A Qualitative Study of a Robotic Crash Cart.** **Xiang Chang**, et al.
+- **FADEx: Function-Aware and Expression-Prioritized Construction of a Motion Prototype Library for Robot Comforting.** Ziyi Chen\*, **Xiang Chang\***, Junshi Luo, Dengbo He, Yuyang Wang, S. W. Ricky Lee, and Chencheng Dong.
+- **GraspAuto: A Unity Toolkit for Surface-Selected Grasp Authoring on Late-Bound 3D Objects.** Qingxuan Yan\*, **Xiang Chang\***, and Dengbo He.
+- **Same Trashbot, Different Streets: Local Legibility in Cross-Community Public Robot Deployment.** Ruixiang Han, Sirui Wang, Chenchen Zheng, **Xiang Chang**, Yuanchen Bai, Hauke Sandhaus, Fanjun Bu, Angelique Taylor, and Wendy Ju.
+- **Tell Me Where to Go: How Users Establish Language–Action Mappings in Verbal Robot Control.** Ruixiang Han, Yuanchen Bai, Sirui Wang, Giuliano Pioldi, **Xiang Chang**, Xinyi Angela Gui, Angelique Taylor, and Wendy Ju.
 
 ---
 <span class='anchor' id='projects'></span>
@@ -269,13 +315,20 @@ Real-time integration of Tobii XR eye tracking and Polar PPG with synchronized e
 
 <span class='anchor' id='educations'></span>
 # 📖 Education
-- *Aug. 2024 – May 2026*, **Cornell Tech (Cornell University)** — Jacobs Technion-Cornell Dual M.S. in Connective Media (GPA: 4.0/4.3).
-- *Sept. 2019 – July 2023*, **Sichuan University (SCU)** — B.M. in Information Resource Management (GPA: 3.75/4.0).
+- *Sept. 2026 – Present*, **The Hong Kong University of Science and Technology (Guangzhou)**, Ph.D. in Robotics and Autonomous Systems. Advisor: Prof. Dengbo He; Co-advisor: Prof. Jun Ma.
+- *Jun. 2025 – Aug. 2025*, **Stanford University**, Visiting Student Researcher. Advisors: Dr. Rebecca Currano and Prof. Mark Cutkosky.
+- *Aug. 2024 – May 2026*, **Cornell Tech (Cornell University)**, Jacobs Technion-Cornell Dual M.S. in Information Systems (Connective Media) and Applied Information Science (GPA: 4.0/4.3). Advisor: Prof. Wendy Ju.
+- *Sept. 2019 – July 2023*, **Sichuan University (SCU)**, B.M. in Information Resource Management (GPA: 3.75/4.0).
 
-<span class='anchor' id='internships'></span>
-# 💻 Internships
-- *Jun. 2025 – Aug. 2025*, Visiting Student Researcher, **Stanford University** — mind-wandering detection in automated driving.
-- *Aug. 2024 – Present*, Graduate Researcher, **Cornell Tech** — multi-agent robotic systems for ER onboarding and AV driver negotiation.
-- *Oct. 2023 – July 2024*, Research Assistant, **Hong Kong University of Science and Technology** — pedestrian–AV interaction datasets.
-- *Mar. 2023 – Sept. 2023*, Intern Researcher, **Institute for AI Industry Research, Tsinghua University** — robotaxi trust and AV eHMI.
-- *Dec. 2022 – Mar. 2023*, Research Assistant, **OPPO Research Institute** — HCI research support.
+<span class='anchor' id='experience'></span>
+# 💻 Research Experience
+- *Aug. 2024 – May 2026*, Graduate Researcher, **Cornell Tech**: AV–driver negotiation (Prof. Wendy Ju) and multi-agent robotic systems for emergency care (Prof. Angelique Taylor).
+- *Oct. 2023 – July 2024*, Research Assistant, **HKUST (Guangzhou)**, with Prof. Dengbo He and Prof. Mingming Fan: on-road pedestrian–robotaxi interaction and passenger trust.
+- *Mar. 2023 – Sept. 2023*, Research Intern, **Institute for AI Industry Research (AIR), Tsinghua University**, with Prof. Jiangtao Gong: gesture-based eHMI and a naturalistic-driving EEG dataset.
+- *Dec. 2022 – Mar. 2023*, Research Assistant, **OPPO Research Institute**.
+- *May 2022 – June 2023*, Research Intern, **HCI·X Lab**, with Prof. Ray LC and Prof. Xin Tong: online sign-language content creation in d/Deaf communities.
+
+<span class='anchor' id='service'></span>
+# 📋 Academic Service
+- **Reviewer**: CHI (2023–2026), AutomotiveUI (2025–2026), Transportation Research Part F, Transportation Research Interdisciplinary Perspectives, Acta Psychologica, Research in Transportation Business & Management.
+- **Session Chair**: HFES ASPIRE 2025, ST4: Pedestrian Behavior & Interactions.
