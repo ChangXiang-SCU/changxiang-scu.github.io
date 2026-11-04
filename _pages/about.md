@@ -61,10 +61,10 @@ My work has appeared at **CHI**, **AutomotiveUI**, **HFES ASPIRE**, and **SIGGRA
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Users’ Trust Evolvement in Fully Driverless Robotaxis During First Ride: An On-Road Study.**
-Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.
-*Human Factors*, 68(6), 788–805, 2026.
-[DOI](https://doi.org/10.1177/00187208261420147)
+**Users’ Trust Evolvement in Fully Driverless Robotaxis During First Ride: An On-Road Study.**<br>
+Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.<br>
+*Human Factors*, 68(6), 788–805, 2026.<br>
+[DOI](https://doi.org/10.1177/00187208261420147)<span class='show_paper_citations' data='k_03qNkAAAAJ:W7OEmFMy1HYC'></span>
   </div>
 </div>
 
@@ -77,10 +77,10 @@ Zhenyu Wang, Weiyin Xie, Haolong Hu, **Xiang Chang**, Meng Sun, and Dengbo He.
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**An EEG Dataset for Understanding Driving Expertise from Naturalistic Urban Road Experiments.**
-Jiangtao Gong, Yueteng Yu, Yancheng Cao, Ruoxuan Yang, **Xiang Chang**, Haoming Tang, Xiaoji Zheng, Yiyao Liu, Shanhe You, Chen Zheng, and Guyue Zhou.
-*Scientific Data*, 13, 884, 2026.
-[DOI](https://doi.org/10.1038/s41597-026-07223-1) · [Code](https://github.com/AIR-DISCOVER/ExpertDrivingDataset)
+**An EEG Dataset for Understanding Driving Expertise from Naturalistic Urban Road Experiments.**<br>
+Jiangtao Gong, Yueteng Yu, Yancheng Cao, Ruoxuan Yang, **Xiang Chang**, Haoming Tang, Xiaoji Zheng, Yiyao Liu, Shanhe You, Chen Zheng, and Guyue Zhou.<br>
+*Scientific Data*, 13, 884, 2026.<br>
+[DOI](https://doi.org/10.1038/s41597-026-07223-1) · [Code](https://github.com/AIR-DISCOVER/ExpertDrivingDataset)<span class='show_paper_citations' data='k_03qNkAAAAJ:mB3voiENLucC'></span>
   </div>
 </div>
 
@@ -91,17 +91,17 @@ Jiangtao Gong, Yueteng Yu, Yancheng Cao, Ruoxuan Yang, **Xiang Chang**, Haoming 
   <div class='paper-box-image'>
     <div>
       <div class="badge">AutomotiveUI 2025</div>
-      <video width="100%" controls playsinline poster="images/thumb_paper_2025_autoui.png?v=4">
+      <video width="100%" controls playsinline preload="none" poster="images/thumb_paper_2025_autoui.png?v=4">
         <source src="images/paper_2025_autoui.mp4?v=4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Socially Adaptive Autonomous Vehicles: Effects of Contingent Driving Behavior on Drivers' Experiences.**
-Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy Ju.
-*AutomotiveUI 2025.*
-<span class='show_paper_citations' data='k_03qNkAAAAJ:IjCSPb-OGe4C'></span> · [DOI](https://doi.org/10.1145/3744333.3747814) · [PDF](https://doi.org/10.1145/3744333.3747814)
+**Socially Adaptive Autonomous Vehicles: Effects of Contingent Driving Behavior on Drivers' Experiences.**<br>
+Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy Ju.<br>
+*AutomotiveUI 2025.*<br>
+[DOI](https://doi.org/10.1145/3744333.3747814)<span class='show_paper_citations' data='k_03qNkAAAAJ:zYLM7Y9cAGgC'></span>
   </div>
 </div>
 
@@ -114,10 +114,10 @@ Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy J
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**The Formation of Trust in Autonomous Vehicles after Interacting with Robotaxis on Public Roads.**
-**Xiang Chang**, Zhijie Yi, Yichang Liu, Hongling Sheng, Dengbo He.
-*HFES ASPIRE 2025.*
-[DOI](https://doi.org/10.1177/10711813251358236) · [PDF](https://doi.org/10.1177/10711813251358236)
+**The Formation of Trust in Autonomous Vehicles after Interacting with Robotaxis on Public Roads.**<br>
+**Xiang Chang**, Zhijie Yi, Yichang Liu, Hongling Sheng, Dengbo He.<br>
+*HFES ASPIRE 2025.* **Best Paper Finalist.**<br>
+[DOI](https://doi.org/10.1177/10711813251358236)<span class='show_paper_citations' data='k_03qNkAAAAJ:Tyk-4Ss8FVUC'></span>
   </div>
 </div>
 
@@ -130,10 +130,10 @@ Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy J
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**"It Must Be Gesturing Towards Me": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians.**
-**Xiang Chang**, Zihe Chen, Xiaoyan Dong, Yuxin Cai, Tingmin Yan, Haolin Cai, Zherui Zhou, Guyue Zhou, and Jiangtao Gong.
-*CHI Conference on Human Factors in Computing Systems, 2024.*
-<span class='show_paper_citations' data='k_03qNkAAAAJ:TFP_iSt0sucC'></span> · [DOI](https://doi.org/10.1145/3613904.3642029) · [PDF](https://doi.org/10.1145/3613904.3642029)
+**"It Must Be Gesturing Towards Me": Gesture-Based Interaction between Autonomous Vehicles and Pedestrians.**<br>
+**Xiang Chang**, Zihe Chen, Xiaoyan Dong, Yuxin Cai, Tingmin Yan, Haolin Cai, Zherui Zhou, Guyue Zhou, and Jiangtao Gong.<br>
+*CHI Conference on Human Factors in Computing Systems, 2024.*<br>
+[DOI](https://doi.org/10.1145/3613904.3642029)<span class='show_paper_citations' data='k_03qNkAAAAJ:d1gkVwhDpl0C'></span>
   </div>
 </div>
 
@@ -146,10 +146,10 @@ Chishang Yang, **Xiang Chang**, Debargha Dey, Zhuoqi Xu, Avi Parush, and Wendy J
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Community-driven Information Accessibility: Online Sign Language Content Creation within d/Deaf Communities.**
-Xinru Tang, **Xiang Chang**, Nuoran Chen, Yingjie Ni, RAY LC, and Xin Tong.
-*CHI Conference on Human Factors in Computing Systems, 2023.*
-<span class='show_paper_citations' data='k_03qNkAAAAJ:u5HHmVD_uO8C'></span> · [DOI](https://doi.org/10.1145/3544548.3581286) · [PDF](https://doi.org/10.1145/3544548.3581286)
+**Community-driven Information Accessibility: Online Sign Language Content Creation within d/Deaf Communities.**<br>
+Xinru Tang, **Xiang Chang**, Nuoran Chen, Yingjie Ni, RAY LC, and Xin Tong.<br>
+*CHI Conference on Human Factors in Computing Systems, 2023.*<br>
+[DOI](https://doi.org/10.1145/3544548.3581286)<span class='show_paper_citations' data='k_03qNkAAAAJ:u5HHmVD_uO8C'></span>
   </div>
 </div>
 
@@ -162,10 +162,10 @@ Xinru Tang, **Xiang Chang**, Nuoran Chen, Yingjie Ni, RAY LC, and Xin Tong.
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Influencing Factors of Resident Satisfaction in Smart Community Services: An Empirical Study in Chengdu.**
-Rongxin Jin, Yifan Liu, Lichen Yang, **Xiang Chang**.
-*ICEB 2022.*
-<span class='show_paper_citations' data='k_03qNkAAAAJ:u-x6o8ySG0sC'></span> · [PDF](https://aisel.aisnet.org/iceb2022/25)
+**Influencing Factors of Resident Satisfaction in Smart Community Services: An Empirical Study in Chengdu.**<br>
+Rongxin Jin, Yifan Liu, Lichen Yang, **Xiang Chang**.<br>
+*ICEB 2022.*<br>
+[Paper](https://aisel.aisnet.org/iceb2022/25)<span class='show_paper_citations' data='k_03qNkAAAAJ:u-x6o8ySG0sC'></span>
   </div>
 </div>
 
@@ -178,10 +178,10 @@ Rongxin Jin, Yifan Liu, Lichen Yang, **Xiang Chang**.
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Study on the Influencing Factors of Health Information Sharing Behavior of the Elderly under the Normalization of the Pandemic Situation.**
-Chenyu Li, Chengxi Sun, **Xiang Chang**, Luoming Liang, Yao Ma, Fan Ke.
-*ICEB 2021 — Best Paper.*
-<span class='show_paper_citations' data='k_03qNkAAAAJ:9yKSN-GCB0IC'></span> · [PDF](https://aisel.aisnet.org/iceb2021/48)
+**Study on the Influencing Factors of Health Information Sharing Behavior of the Elderly under the Normalization of the Pandemic Situation.**<br>
+Chenyu Li, Chengxi Sun, **Xiang Chang**, Luoming Liang, Yao Ma, Fan Ke.<br>
+*ICEB 2021.* **Best Paper Award.**<br>
+[Paper](https://aisel.aisnet.org/iceb2021/48)<span class='show_paper_citations' data='k_03qNkAAAAJ:9yKSN-GCB0IC'></span>
   </div>
 </div>
 
@@ -196,10 +196,10 @@ Chenyu Li, Chengxi Sun, **Xiang Chang**, Luoming Liang, Yao Ma, Fan Ke.
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**GraspAuto: Real-Time Single-Tap Grasp Authoring for VR/AR Experiences.**
-Qingxuan Yan and **Xiang Chang**.
-*SIGGRAPH 2026 Posters.*
-[DOI](https://doi.org/10.1145/3799825.3818766)
+**GraspAuto: Real-Time Single-Tap Grasp Authoring for VR/AR Experiences.**<br>
+Qingxuan Yan and **Xiang Chang**.<br>
+*SIGGRAPH 2026 Posters.*<br>
+[DOI](https://doi.org/10.1145/3799825.3818766)<span class='show_paper_citations' data='k_03qNkAAAAJ:HDshCWvjkbEC'></span>
   </div>
 </div>
 
@@ -212,10 +212,10 @@ Qingxuan Yan and **Xiang Chang**.
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**Exploring User Needs in Fully Driverless Robotaxis: A Think-Aloud Study of First-Time On-Road Rides.**
-Zhenyu Wang, Haolong Hu, Weiyin Xie, **Xiang Chang**, Peixuan Xiong, and Dengbo He.
-*AutomotiveUI 2025 Works in Progress.*
-[DOI](https://doi.org/10.1145/3744335.3758506) · [PDF](https://doi.org/10.1145/3744335.3758506)
+**Exploring User Needs in Fully Driverless Robotaxis: A Think-Aloud Study of First-Time On-Road Rides.**<br>
+Zhenyu Wang, Haolong Hu, Weiyin Xie, **Xiang Chang**, Peixuan Xiong, and Dengbo He.<br>
+*AutomotiveUI 2025 Works in Progress.*<br>
+[DOI](https://doi.org/10.1145/3744335.3758506)<span class='show_paper_citations' data='k_03qNkAAAAJ:Y0pCki6q_DkC'></span>
   </div>
 </div>
 
@@ -237,10 +237,10 @@ Zhenyu Wang, Haolong Hu, Weiyin Xie, **Xiang Chang**, Peixuan Xiong, and Dengbo 
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario.**
-Yuanchen Bai, Zijian Ding, Shaoyue Wen, **Xiang Chang**, and Angelique Taylor.
-*arXiv:2508.04691.*
-<span class='show_paper_citations' data='k_03qNkAAAAJ:UeHWp8X0CEIC'></span> · [arXiv](https://arxiv.org/abs/2508.04691)
+**From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario.**<br>
+Yuanchen Bai, Zijian Ding, Shaoyue Wen, **Xiang Chang**, and Angelique Taylor.<br>
+*arXiv:2508.04691.*<br>
+[arXiv](https://arxiv.org/abs/2508.04691)<span class='show_paper_citations' data='k_03qNkAAAAJ:UeHWp8X0CEIC'></span>
   </div>
 </div>
 
@@ -253,22 +253,17 @@ Yuanchen Bai, Zijian Ding, Shaoyue Wen, **Xiang Chang**, and Angelique Taylor.
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-**From Driver to Passenger: Understanding Evaluation Gaps in 'Fantastic' Driving Behaviour Delivery.**
-Zhijie Yi\*, **Xiang Chang\***, Yueteng Yu, Xinyu Yang, Junrong Lu, Yiyao Liu, Ye Jin, Mengdi Chu, Jingli Qin, Jialin Song, and Jiangtao Gong. (\*Equal contribution)
-*arXiv:2311.04150.*
-[arXiv](https://arxiv.org/abs/2311.04150)
+**From Driver to Passenger: Understanding Evaluation Gaps in 'Fantastic' Driving Behaviour Delivery.**<br>
+Zhijie Yi\*, **Xiang Chang\***, Yueteng Yu, Xinyu Yang, Junrong Lu, Yiyao Liu, Ye Jin, Mengdi Chu, Jingli Qin, Jialin Song, and Jiangtao Gong. (\*Equal contribution)<br>
+*arXiv:2311.04150.*<br>
+[arXiv](https://arxiv.org/abs/2311.04150)<span class='show_paper_citations' data='k_03qNkAAAAJ:IjCSPb-OGe4C'></span>
   </div>
 </div>
 
 ### Under Review
 
-- **Social Situation Awareness in Driver-Pedestrian Interactions.** **Xiang Chang**, Stacey Li, David Goedicke, Chishang "Mario" Yang, Patrick Lo, Almog Sharon, Avi Parush, Wendy Ju, and Debargha Dey.
-- **From Human Teams to Human-Robot Teams: A Systematic Review of Situation Awareness Measurement Methods.** **Xiang Chang**, Zhijie Yi, Jinghao Huang, Chenglin Liu, Yueteng Yu, Zhenyu Wang, Yan Zhang, Jiyao Wang, and Dengbo He.
 - **Supporting Simulated Resuscitation Teams with Multimodal Robotic Feedback: A Qualitative Study of a Robotic Crash Cart.** **Xiang Chang**.
-- **FADEx: Function-Aware and Expression-Prioritized Construction of a Motion Prototype Library for Robot Comforting.** Ziyi Chen\*, **Xiang Chang\***, Junshi Luo, Dengbo He, Yuyang Wang, S. W. Ricky Lee, and Chencheng Dong.
 - **GraspAuto: A Unity Toolkit for Surface-Selected Grasp Authoring on Late-Bound 3D Objects.** Qingxuan Yan\*, **Xiang Chang\***, and Dengbo He.
-- **Same Trashbot, Different Streets: Local Legibility in Cross-Community Public Robot Deployment.** Ruixiang Han, Sirui Wang, Chenchen Zheng, **Xiang Chang**, Yuanchen Bai, Hauke Sandhaus, Fanjun Bu, Angelique Taylor, and Wendy Ju.
-- **Tell Me Where to Go: How Users Establish Language–Action Mappings in Verbal Robot Control.** Ruixiang Han, Yuanchen Bai, Sirui Wang, Giuliano Pioldi, **Xiang Chang**, Xinyi Angela Gui, Angelique Taylor, and Wendy Ju.
 
 ---
 <span class='anchor' id='projects'></span>
@@ -316,12 +311,12 @@ Real-time integration of Tobii XR eye tracking and Polar PPG with synchronized e
 <span class='anchor' id='educations'></span>
 # 📖 Education
 - *Sept. 2026 – Present*, **The Hong Kong University of Science and Technology (Guangzhou)**, Ph.D. in Robotics and Autonomous Systems. Advisor: Prof. Dengbo He; Co-advisor: Prof. Jun Ma.
-- *Jun. 2025 – Aug. 2025*, **Stanford University**, Visiting Student Researcher. Advisors: Dr. Rebecca Currano and Prof. Mark Cutkosky.
 - *Aug. 2024 – May 2026*, **Cornell Tech (Cornell University)**, Jacobs Technion-Cornell Dual M.S. in Information Systems (Connective Media) and Applied Information Science (GPA: 4.0/4.3). Advisor: Prof. Wendy Ju.
 - *Sept. 2019 – July 2023*, **Sichuan University (SCU)**, B.M. in Information Resource Management (GPA: 3.75/4.0).
 
 <span class='anchor' id='experience'></span>
 # 💻 Research Experience
+- *Jun. 2025 – Aug. 2025*, Visiting Student Researcher, **Stanford University**, with Dr. Rebecca Currano and Prof. Mark Cutkosky: real-time eye-tracking and physiological sensing for mind-wandering detection in automated urban driving.
 - *Aug. 2024 – May 2026*, Graduate Researcher, **Cornell Tech**: AV–driver negotiation (Prof. Wendy Ju) and multi-agent robotic systems for emergency care (Prof. Angelique Taylor).
 - *Oct. 2023 – July 2024*, Research Assistant, **HKUST (Guangzhou)**, with Prof. Dengbo He and Prof. Mingming Fan: on-road pedestrian–robotaxi interaction and passenger trust.
 - *Mar. 2023 – Sept. 2023*, Research Intern, **Institute for AI Industry Research (AIR), Tsinghua University**, with Prof. Jiangtao Gong: gesture-based eHMI and a naturalistic-driving EEG dataset.
