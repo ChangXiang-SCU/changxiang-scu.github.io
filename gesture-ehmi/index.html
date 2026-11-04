@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>It Must Be Gesturing Towards Me · CHI 2024</title>
+  <meta name="description" content="Gesture-based eHMIs for autonomous vehicle and pedestrian interaction at uncontrolled crosswalks, evaluated in a VR experiment (N = 31) and an online survey (N = 394). CHI 2024.">
+  <meta name="keywords" content="autonomous vehicles, eHMI, pedestrians, gesture, virtual reality, human-vehicle interaction, CHI 2024">
+  <meta name="author" content="Xiang Chang, Zihe Chen, Xiaoyan Dong, Yuxin Cai, Tingmin Yan, Haolin Cai, Zherui Zhou, Guyue Zhou, Jiangtao Gong">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Xiang Chang">
+  <meta property="og:title" content="&quot;It Must Be Gesturing Towards Me&quot;: Gesture-Based Interaction between Autonomous Vehicles and Pedestrians">
+  <meta property="og:description" content="Gesture-based eHMIs for autonomous vehicle and pedestrian interaction at uncontrolled crosswalks, evaluated in a VR experiment (N = 31) and an online survey (N = 394). CHI 2024.">
+  <meta property="og:url" content="https://changxiang-scu.github.io/gesture-ehmi/">
+  <meta property="og:image" content="https://changxiang-scu.github.io/gesture-ehmi/static/teaser.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="&quot;It Must Be Gesturing Towards Me&quot;: Gesture-Based Interaction between Autonomous Vehicles and Pedestrians">
+  <meta name="twitter:description" content="Gesture-based eHMIs for autonomous vehicle and pedestrian interaction at uncontrolled crosswalks, evaluated in a VR experiment (N = 31) and an online survey (N = 394). CHI 2024.">
+  <meta name="citation_title" content="&quot;It Must Be Gesturing Towards Me&quot;: Gesture-Based Interaction between Autonomous Vehicles and Pedestrians">
+  <meta name="citation_author" content="Chang, Xiang">
+  <meta name="citation_author" content="Chen, Zihe">
+  <meta name="citation_author" content="Dong, Xiaoyan">
+  <meta name="citation_author" content="Cai, Yuxin">
+  <meta name="citation_author" content="Yan, Tingmin">
+  <meta name="citation_author" content="Cai, Haolin">
+  <meta name="citation_author" content="Zhou, Zherui">
+  <meta name="citation_author" content="Zhou, Guyue">
+  <meta name="citation_author" content="Gong, Jiangtao">
+  <meta name="citation_publication_date" content="2024">
+  <meta name="citation_conference_title" content="Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems">
+  <meta name="citation_doi" content="10.1145/3613904.3642029">
+  <meta name="citation_arxiv_id" content="2402.14455">
+  <meta name="theme-color" content="#2563eb">
+  <link rel="icon" type="image/x-icon" href="../images/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="../assets/css/academicons.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../projects/static/css/index.css">
+  <script defer src="../projects/static/js/index.js"></script>
+</head>
+<body>
+
+  <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+  <div class="more-works-container">
+    <button class="more-works-btn" onclick="toggleMoreWorks()" title="More works by Xiang Chang">
+      <i class="fas fa-flask"></i>
+      More Works
+      <i class="fas fa-chevron-down dropdown-arrow"></i>
+    </button>
+    <div class="more-works-dropdown" id="moreWorksDropdown">
+      <div class="dropdown-header">
+        <h4>More Works by Xiang Chang</h4>
+        <button class="close-btn" onclick="toggleMoreWorks()" aria-label="Close"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="works-list">
+        <a href="../robotaxi-pedestrian-trust/" class="work-item">
+          <div class="work-info">
+            <h5>Pedestrian Trust after Interacting with Robotaxis on Public Roads</h5>
+            <p>An on-road study of how pedestrians&#x27; trust in AVs forms through repeated crossings in front of Level-4 robotaxis at an uncontrolled intersection.</p>
+            <span class="work-venue">HFES ASPIRE 2025</span>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="../web-biosignal-console/" class="work-item">
+          <div class="work-info">
+            <h5>Web Biosignal Console</h5>
+            <p>One HTML file that records ECG, EDA/GSR and accelerometry from consumer sensors on a single shared clock and writes analysis-ready CSV.</p>
+            <span class="work-venue">Open-source tool</span>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="../dual-egpu-moe-llm/" class="work-item">
+          <div class="work-info">
+            <h5>A 176B MoE LLM on a Handheld over Two eGPUs</h5>
+            <p>Running a 176B mixture-of-experts model across two RX 6950XT eGPUs on a handheld PC, and what a 27B dense model teaches about the same hardware.</p>
+            <span class="work-venue">Open-source notes</span>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="../projects/" class="work-item">
+          <div class="work-info">
+            <h5>All papers and projects</h5>
+            <p>Overview of Xiang Chang's publications and open-source projects.</p>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <main id="main-content">
+<section class="hero publication-header">
+  <div class="home-link-container">
+    <a class="home-link" href="https://changxiang-scu.github.io/"><i class="fas fa-house"></i> Xiang Chang</a>
+  </div>
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">&ldquo;It Must Be Gesturing Towards Me&rdquo;: Gesture-Based Interaction between Autonomous Vehicles and Pedestrians</h1>
+          <div class="is-size-5 publication-authors">
+              <span class="author-block"><a href="https://changxiang-scu.github.io/" target="_blank" rel="noopener"><span class="me">Xiang Chang</span></a>,</span>
+              <span class="author-block">Zihe Chen,</span>
+              <span class="author-block">Xiaoyan Dong,</span>
+              <span class="author-block">Yuxin Cai,</span>
+              <span class="author-block">Tingmin Yan,</span>
+              <span class="author-block">Haolin Cai,</span>
+              <span class="author-block">Zherui Zhou,</span>
+              <span class="author-block">Guyue Zhou,</span>
+              <span class="author-block">Jiangtao Gong</span>
+          </div>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block affiliation-block">Institute for AI Industry Research (AIR), Tsinghua University</span>
+            <span class="publication-venue">CHI Conference on Human Factors in Computing Systems (CHI 2024), Honolulu, HI, USA</span>
+            
+          </div>
+          <div class="column has-text-centered">
+            <div class="publication-links">
+                <span class="link-block">
+                  <a href="https://doi.org/10.1145/3613904.3642029" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2402.14455" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="ai ai-arxiv"></i></span>
+                    <span>arXiv</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="#BibTeX" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fas fa-quote-right"></i></span>
+                    <span>BibTeX</span>
+                  </a>
+                </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Teaser figure: replace gesture-ehmi/static/teaser.png (see PR notes for which figure to use) -->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <div class="figure-frame">
+        <img src="static/teaser.png" alt="Virtual-hand gesture eHMI displayed in the front window of an autonomous vehicle" onerror="this.onerror=null;this.parentNode.classList.add('is-missing');">
+        <div class="figure-missing"><i class="far fa-image"></i><span>Figure placeholder</span><code>static/teaser.png</code></div>
+      </div>
+      <h2 class="subtitle has-text-centered figure-caption">A virtual hand in the front window of the autonomous vehicle gestures to the pedestrian whether the car will yield.</h2>
+    </div>
+  </div>
+</section>
+
+<section class="section hero is-light" id="abstract">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Summary</h2>
+        <div class="content has-text-justified">
+          <p>Interacting with pedestrians is one of the hardest problems for autonomous vehicles (AVs), given the limits of current algorithms and external human-machine interfaces (eHMIs). We designed gesture-based eHMIs modeled on how pedestrians and human drivers commonly communicate: a virtual hand shown in the AV's front window signals whether the vehicle will yield at an uncontrolled crosswalk.</p>
+          <p>Through a VR experiment (N<sub>1</sub> = 31) and an online survey (N<sub>2</sub> = 394), we found significant differences in usability between gesture-based eHMIs and current eHMIs. Well-chosen gestures made pedestrian and AV interaction more efficient while keeping it safe, whereas poorly chosen gestures led to misinterpretation. We trace these failures to ambiguity about who the gesture is meant for, and to whether a gesture reads as precise, polite, and familiar to pedestrians.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section hero page-section" id="method">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full">
+        <h2 class="title is-3 has-text-centered">Method</h2>
+      <div class="diagram-frame">
+        <picture>
+          <source media="(max-width: 640px)" srcset="static/overview-tall.svg">
+          <img src="static/overview-wide.svg" alt="Study overview: formative interviews, gesture eHMI design, VR experiment, online survey, findings" loading="lazy">
+        </picture>
+        <p class="figure-caption">Study overview.</p>
+      </div>
+        <div class="content">
+          <h3>Learning from human road users</h3>
+          <p>We first interviewed drivers and pedestrians to understand how they commonly communicate with each other when negotiating a crossing. These everyday gestures became the design space for the eHMI.</p>
+          <h3>A virtual hand as the eHMI</h3>
+          <p>The eHMI renders a virtual hand in the AV's front window. Eight common gestures were selected to convey the vehicle's yielding or non-yielding intention at an uncontrolled crosswalk, and compared against conventional eHMIs.</p>
+          <h3>Evaluation</h3>
+          <p>The system was built in Unreal Engine with the CARLA simulator. In a VR experiment (N<sub>1</sub> = 31), participants met the AV at an uncontrolled crosswalk; we recorded observation time, error rate, perceived danger, and physiological indicators. An online survey (N<sub>2</sub> = 394) extended the evaluation to a larger sample.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section hero is-light page-section" id="results">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full">
+        <h2 class="title is-3 has-text-centered">Results</h2>
+        <div class="content">
+          <div class="stat-grid">
+            <div class="stat-card"><div class="stat-value">8</div><div class="stat-label">gestures conveying yielding or non-yielding intent</div></div>
+            <div class="stat-card"><div class="stat-value">31</div><div class="stat-label">participants in the VR experiment</div></div>
+            <div class="stat-card"><div class="stat-value">394</div><div class="stat-label">respondents in the online survey</div></div>
+          </div>
+          <ul>
+            <li><strong>Usability differs.</strong> Gesture-based eHMIs differed significantly in usability from current eHMIs.</li>
+            <li><strong>Good gestures help.</strong> Well-chosen gestures made the interaction more efficient while keeping crossings safe.</li>
+            <li><strong>Bad gestures mislead.</strong> Poorly chosen gestures were misinterpreted, which in the VR study led to unsafe crossing decisions.</li>
+            <li><strong>Why.</strong> Misinterpretation came from ambiguity about who the gesture was addressed to, and from whether a gesture seemed precise, polite, and familiar to pedestrians.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <div class="bibtex-header">
+      <h2 class="title">BibTeX</h2>
+      <button class="copy-bibtex-btn" onclick="copyBibTeX()" title="Copy BibTeX to clipboard">
+        <i class="fas fa-copy"></i>
+        <span class="copy-text">Copy</span>
+      </button>
+    </div>
+    <pre id="bibtex-code"><code>@inproceedings{chang2024gesturing,
+  author    = {Chang, Xiang and Chen, Zihe and Dong, Xiaoyan and Cai, Yuxin and Yan, Tingmin and Cai, Haolin and Zhou, Zherui and Zhou, Guyue and Gong, Jiangtao},
+  title     = {&quot;It Must Be Gesturing Towards Me&quot;: Gesture-Based Interaction between Autonomous Vehicles and Pedestrians},
+  booktitle = {Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},
+  series    = {CHI &#x27;24},
+  year      = {2024},
+  location  = {Honolulu, HI, USA},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  doi       = {10.1145/3613904.3642029}
+}</code></pre>
+  </div>
+</section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content has-text-centered">
+            <p><a href="https://changxiang-scu.github.io/">Xiang Chang</a> · <a href="../projects/">All papers and projects</a></p>
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank" rel="noopener">Academic Project Page Template</a>, which was adopted from the <a href="https://nerfies.github.io" target="_blank" rel="noopener">Nerfies</a> project page.
+              This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
