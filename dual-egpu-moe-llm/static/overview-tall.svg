@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 638" width="520" height="638" role="img">
+<style>.b{fill:#f8fafc;stroke:#cbd5e1;stroke-width:2}.c{fill:#2563eb}.a{stroke:#94a3b8;stroke-width:3}.p{fill:#94a3b8}text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}.n{font-size:17px;font-weight:700;fill:#fff;text-anchor:middle}.t{font-size:23px;font-weight:700;fill:#1e293b}.l{font-size:20px;fill:#475569}.h{font-size:20px;font-weight:700;fill:#1e293b;text-anchor:middle}</style>
+<rect width="100%" height="100%" fill="#fff"/>
+<rect class="b" x="16" y="16" width="488" height="196" rx="14"/>
+<circle class="c" cx="46" cy="46" r="15"/>
+<text class="n" x="46" y="53">1</text>
+<text class="t" x="72" y="55">VRAM, 32 GB</text>
+<text class="l" x="40" y="94">Attention + router</text>
+<text class="l" x="40" y="125">LRU cache of hot</text>
+<text class="l" x="40" y="156">experts, ~23 GB</text>
+<text class="l" x="40" y="187">KV + compute ~1 GB</text>
+<path class="a" d="M260 216v24"/><path class="p" d="M260 248l-7 -10h14z"/>
+<rect class="b" x="16" y="252" width="488" height="165" rx="14"/>
+<circle class="c" cx="46" cy="282" r="15"/>
+<text class="n" x="46" y="289">2</text>
+<text class="t" x="72" y="291">RAM, 64 GB</text>
+<text class="l" x="40" y="330">All 46 GB of experts</text>
+<text class="l" x="40" y="361">(mmap-resident)</text>
+<text class="l" x="40" y="392">about 4 GB of rest</text>
+<path class="a" d="M260 421v24"/><path class="p" d="M260 453l-7 -10h14z"/>
+<rect class="b" x="16" y="457" width="488" height="165" rx="14"/>
+<circle class="c" cx="46" cy="487" r="15"/>
+<text class="n" x="46" y="494">3</text>
+<text class="t" x="72" y="496">SSD</text>
+<text class="l" x="40" y="535">28.8 GB n-gram table</text>
+<text class="l" x="40" y="566">only touched pages</text>
+<text class="l" x="40" y="597">ever reach RAM</text>
+</svg>
