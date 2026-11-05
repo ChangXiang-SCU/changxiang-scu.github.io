@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 231" width="1200" height="231" role="img">
+<style>.b{fill:#f8fafc;stroke:#cbd5e1;stroke-width:2}.c{fill:#2563eb}.a{stroke:#94a3b8;stroke-width:3}.p{fill:#94a3b8}text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}.n{font-size:16px;font-weight:700;fill:#fff;text-anchor:middle}.t{font-size:18px;font-weight:700;fill:#1e293b}.l{font-size:15px;fill:#475569}.h{font-size:20px;font-weight:700;fill:#1e293b;text-anchor:middle}</style>
+<rect width="100%" height="100%" fill="#fff"/>
+<rect class="b" x="16" y="16" width="259" height="199" rx="14"/>
+<circle class="c" cx="48" cy="48" r="15"/>
+<text class="n" x="48" y="54">1</text>
+<text class="t" x="34" y="94">Sensors</text>
+<text class="l" x="34" y="122">Polar H10: ECG, ACC</text>
+<text class="l" x="34" y="145.2">Verity Sense: PPG</text>
+<text class="l" x="34" y="168.5">Nervous EDA</text>
+<text class="l" x="34" y="191.8">Arduino GSR</text>
+<path class="a" d="M281 115.5h28"/><path class="p" d="M313 115.5l-10 -7v14z"/>
+<rect class="b" x="319" y="16" width="259" height="199" rx="14"/>
+<circle class="c" cx="351" cy="48" r="15"/>
+<text class="n" x="351" y="54">2</text>
+<text class="t" x="337" y="94">Browser</text>
+<text class="l" x="337" y="122">Web Bluetooth</text>
+<text class="l" x="337" y="145.2">(Polar PMD, NUS)</text>
+<text class="l" x="337" y="168.5">Web Serial (CH340)</text>
+<path class="a" d="M584 115.5h28"/><path class="p" d="M616 115.5l-10 -7v14z"/>
+<rect class="b" x="622" y="16" width="259" height="199" rx="14"/>
+<circle class="c" cx="654" cy="48" r="15"/>
+<text class="n" x="654" y="54">3</text>
+<text class="t" x="640" y="94">One clock</text>
+<text class="l" x="640" y="122">Anchor to host time</text>
+<text class="l" x="640" y="145.2">at first packet</text>
+<text class="l" x="640" y="168.5">Log offset, skew,</text>
+<text class="l" x="640" y="191.8">latency, dropouts</text>
+<path class="a" d="M887 115.5h28"/><path class="p" d="M919 115.5l-10 -7v14z"/>
+<rect class="b" x="925" y="16" width="259" height="199" rx="14"/>
+<circle class="c" cx="957" cy="48" r="15"/>
+<text class="n" x="957" y="54">4</text>
+<text class="t" x="943" y="94">CSV output</text>
+<text class="l" x="943" y="122">unix_host_ms column</text>
+<text class="l" x="943" y="145.2">MARKERS, LINK EVENTS</text>
+<text class="l" x="943" y="168.5">and SYNC headers</text>
+</svg>
