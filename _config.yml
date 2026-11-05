@@ -9,6 +9,10 @@
 title                    : "Xiang Chang"
 description              : "PhD student in Robotics and Autonomous Systems at HKUST (Guangzhou); research in HCI/HRI, human factors of automated driving, and multimodal physiological sensing."
 repository               : "ChangXiang-SCU/changxiang-scu.github.io"
+url                      : "https://changxiang-scu.github.io"
+baseurl                  : ""
+seo_tagline              : "HCI, HRI & Human Factors of Automated Driving"
+og_image                 : "images/XiangChang_2026.jpg"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,6 +26,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiang Chang"
+  first_name       : "Xiang"
+  last_name        : "Chang"
+  alternate_name   : "畅想"
+  alumni_of        : ["Cornell University", "Sichuan University"]
+  knows_about      : ["Human-Computer Interaction", "Human-Robot Interaction", "Human Factors", "Automated Driving", "Multimodal Physiological Sensing"]
   avatar           : "images/XiangChang_2026.jpg"
   bio              : "PhD Student, HKUST (Guangzhou)"
   location         : "Guangzhou, China"
@@ -66,6 +75,13 @@ include:
   - files
 exclude:
   - docs
+  - README.md
+  - cv_data.json
+  - repo_media.json
+  - extract_cv.py
+  - copy_images.py
+  - crop_images.py
+  - run_server.sh
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -126,6 +142,11 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # keep the old CV PDFs reachable by direct link, but out of the sitemap
+  - scope:
+      path: "*.pdf"
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
