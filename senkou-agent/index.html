@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Senkou Agent · Xiang Chang</title>
+  <meta name="description" content="A locally hosted LaTeX IDE with a CodeMirror editor, live PDF preview, a multi-provider AI assistant, Overleaf-style comments, GitHub and Overleaf sync, and Canvas assignment import.">
+  <meta name="keywords" content="LaTeX, IDE, AI assistant, Claude, OpenAI, Gemini, Overleaf, GitHub, Canvas, SwiftLaTeX">
+  <meta name="author" content="Xiang Chang">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Xiang Chang">
+  <meta property="og:title" content="Senkou Agent: A Local LaTeX IDE with AI Assistants">
+  <meta property="og:description" content="A locally hosted LaTeX IDE with a CodeMirror editor, live PDF preview, a multi-provider AI assistant, Overleaf-style comments, GitHub and Overleaf sync, and Canvas assignment import.">
+  <meta property="og:url" content="https://changxiang-scu.github.io/senkou-agent/">
+  <meta property="og:image" content="https://changxiang-scu.github.io/senkou-agent/static/teaser.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Senkou Agent: A Local LaTeX IDE with AI Assistants">
+  <meta name="twitter:description" content="A locally hosted LaTeX IDE with a CodeMirror editor, live PDF preview, a multi-provider AI assistant, Overleaf-style comments, GitHub and Overleaf sync, and Canvas assignment import.">
+  <meta name="theme-color" content="#2563eb">
+  <link rel="icon" type="image/x-icon" href="../images/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="../assets/css/academicons.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../projects/static/css/index.css">
+  <script defer src="../projects/static/js/index.js"></script>
+</head>
+<body>
+
+  <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+  <div class="more-works-container">
+    <button class="more-works-btn" onclick="toggleMoreWorks()" title="More works by Xiang Chang">
+      <i class="fas fa-flask"></i>
+      More Works
+      <i class="fas fa-chevron-down dropdown-arrow"></i>
+    </button>
+    <div class="more-works-dropdown" id="moreWorksDropdown">
+      <div class="dropdown-header">
+        <h4>More Works by Xiang Chang</h4>
+        <button class="close-btn" onclick="toggleMoreWorks()" aria-label="Close"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="works-list">
+        <a href="../mnemosyne/" class="work-item">
+          <div class="work-info">
+            <h5>Mnemosyne: Persistent Memory for AI Agents</h5>
+            <p>A knowledge layer that turns Claude Code and Codex sessions into a DIKW graph and feeds it back over MCP.</p>
+            <span class="work-venue">EmpireHacks 2026</span>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="../littletake/" class="work-item">
+          <div class="work-info">
+            <h5>LittleTake: The Scene Is the Prompt</h5>
+            <p>Build and animate an editable low-poly scene, then use it to direct AI video.</p>
+            <span class="work-venue">Meta Global AI Developer Hackathon</span>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="../evtol-takeover-hmi/" class="work-item">
+          <div class="work-info">
+            <h5>eVTOL Takeover HMI</h5>
+            <p>A Flight Simulator 2024 platform for studying pilot takeover from an autonomous eVTOL.</p>
+            <span class="work-venue">Research platform</span>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="../projects/" class="work-item">
+          <div class="work-info">
+            <h5>All papers and projects</h5>
+            <p>Overview of Xiang Chang's publications and projects.</p>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <main id="main-content">
+<section class="hero publication-header">
+  <div class="home-link-container">
+    <a class="home-link" href="https://changxiang-scu.github.io/"><i class="fas fa-house"></i> Xiang Chang</a>
+  </div>
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">Senkou Agent: A Local LaTeX IDE with AI Assistants</h1>
+          <div class="is-size-5 publication-authors">
+              <span class="author-block"><a href="https://changxiang-scu.github.io/" target="_blank" rel="noopener"><span class="me">Xiang Chang</span></a></span>
+          </div>
+          <div class="is-size-5 publication-authors">
+            <span class="publication-venue">Open-source tool · 2026</span>
+          </div>
+          <div class="column has-text-centered">
+            <div class="publication-links">
+                <span class="link-block">
+                  <a href="https://github.com/ChangXiang-SCU/Senkou-Agent" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fab fa-github"></i></span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://github.com/ChangXiang-SCU/Senkou-Agent/blob/main/SwiftLaTeX/README.md" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fas fa-book"></i></span>
+                    <span>Documentation</span>
+                  </a>
+                </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Teaser figure: add senkou-agent/static/teaser.png (see PR notes for which image to use) -->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <div class="figure-frame">
+        <img src="static/teaser.png" alt="Senkou Agent editor with LaTeX source, live PDF preview and AI assistant" onerror="this.onerror=null;this.parentNode.classList.add('is-missing');">
+        <div class="figure-missing"><i class="far fa-image"></i><span>Figure placeholder</span><code>static/teaser.png</code></div>
+      </div>
+      <h2 class="subtitle has-text-centered figure-caption">Source, live PDF and an AI assistant side by side, running on your own machine.</h2>
+    </div>
+  </div>
+</section>
+
+<section class="section hero is-light" id="abstract">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Overview</h2>
+        <div class="content has-text-justified">
+          <p>Senkou Agent is a LaTeX IDE that runs on your own machine. It combines a CodeMirror editor, live PDF preview, an AI assistant that can use Claude, OpenAI, Gemini or OpenRouter, Overleaf-style comments, GitHub and Overleaf sync, and Canvas assignment import.</p>
+          <p>Each paper is a folder under one projects directory. Besides the editor there are dashboard, calendar and library pages, and the calendar can read a Canvas calendar feed for deadlines.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section hero page-section" id="method">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full">
+        <h2 class="title is-3 has-text-centered">How It Works</h2>
+      <div class="diagram-frame">
+        <picture>
+          <source media="(max-width: 640px)" srcset="static/overview-tall.svg">
+          <img src="static/overview-wide.svg" alt="Workflow: write, compile locally, ask an AI assistant, sync with GitHub, Overleaf and Canvas" loading="lazy">
+        </picture>
+        <p class="figure-caption">Write, compile, ask and sync without leaving one local app.</p>
+      </div>
+        <div class="content">
+          <h3>Local by design</h3>
+          <p>The server listens on <code>127.0.0.1</code> only, other websites cannot call its local API, and secret files are never served. API keys and tokens live in a git-ignored <code>config.json</code>. The server has no login, so it should not be exposed to an untrusted network.</p>
+          <h3>Requirements</h3>
+          <ul>
+            <li>Node.js 20.19 or newer (22 LTS recommended)</li>
+            <li>A TeX distribution with <code>xelatex</code>, <code>pdflatex</code> and <code>bibtex</code>: MiKTeX, MacTeX or TeX Live</li>
+            <li>Git, for updates and for GitHub and Overleaf sync</li>
+          </ul>
+          <p class="source-note">Based on <a href="https://github.com/SwiftLaTeX/SwiftLaTeX" target="_blank" rel="noopener">SwiftLaTeX</a> (AGPL-3.0).</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content has-text-centered">
+            <p><a href="https://changxiang-scu.github.io/">Xiang Chang</a> · <a href="../projects/">All papers and projects</a></p>
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank" rel="noopener">Academic Project Page Template</a>, which was adopted from the <a href="https://nerfies.github.io" target="_blank" rel="noopener">Nerfies</a> project page.
+              This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 228" width="1200" height="228" role="img">
+<style>.b{fill:#f8fafc;stroke:#cbd5e1;stroke-width:2}.c{fill:#2563eb}.a{stroke:#94a3b8;stroke-width:3}.p{fill:#94a3b8}text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}.n{font-size:16px;font-weight:700;fill:#fff;text-anchor:middle}.t{font-size:18px;font-weight:700;fill:#1e293b}.l{font-size:14.6px;fill:#475569}</style>
+<rect width="100%" height="100%" fill="#fff"/>
+<rect class="b" x="16" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="48" cy="48" r="15"/>
+<text class="n" x="48" y="54">1</text>
+<text class="t" x="34" y="94">Autonomous approach</text>
+<text class="l" x="34" y="122">One click flies a</text>
+<text class="l" x="34" y="144.6">stepped descent to a</text>
+<text class="l" x="34" y="167.3">rooftop helipad</text>
+<path class="a" d="M220.4 114.2h28"/><path class="p" d="M252.4 114.2l-10 -7v14z"/>
+<rect class="b" x="258.4" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="290.4" cy="48" r="15"/>
+<text class="n" x="290.4" y="54">2</text>
+<text class="t" x="276.4" y="94">Hazard</text>
+<text class="l" x="276.4" y="122">Wind shear, autopilot</text>
+<text class="l" x="276.4" y="144.6">failure or obstacle,</text>
+<text class="l" x="276.4" y="167.3">geofenced trigger</text>
+<path class="a" d="M462.8 114.2h28"/><path class="p" d="M494.8 114.2l-10 -7v14z"/>
+<rect class="b" x="500.8" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="532.8" cy="48" r="15"/>
+<text class="n" x="532.8" y="54">3</text>
+<text class="t" x="518.8" y="94">Takeover request</text>
+<text class="l" x="518.8" y="122">Visual, audio or</text>
+<text class="l" x="518.8" y="144.6">both, shown on the</text>
+<text class="l" x="518.8" y="167.3">subject HMI</text>
+<path class="a" d="M705.2 114.2h28"/><path class="p" d="M737.2 114.2l-10 -7v14z"/>
+<rect class="b" x="743.2" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="775.2" cy="48" r="15"/>
+<text class="n" x="775.2" y="54">4</text>
+<text class="t" x="761.2" y="94">Reaction time</text>
+<text class="l" x="761.2" y="122">Two channels:</text>
+<text class="l" x="761.2" y="144.6">touchscreen and</text>
+<text class="l" x="761.2" y="167.3">control deflection</text>
+<path class="a" d="M947.6 114.2h28"/><path class="p" d="M979.6 114.2l-10 -7v14z"/>
+<rect class="b" x="985.6" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="1017.6" cy="48" r="15"/>
+<text class="n" x="1017.6" y="54">5</text>
+<text class="t" x="1003.6" y="94">Telemetry</text>
+<text class="l" x="1003.6" y="122">Per-trial CSV of</text>
+<text class="l" x="1003.6" y="144.6">the full flight</text>
+<text class="l" x="1003.6" y="167.3">state</text>
+</svg>
