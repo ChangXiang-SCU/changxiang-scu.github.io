@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 228" width="1200" height="228" role="img">
+<style>.b{fill:#f8fafc;stroke:#cbd5e1;stroke-width:2}.c{fill:#2563eb}.a{stroke:#94a3b8;stroke-width:3}.p{fill:#94a3b8}text{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}.n{font-size:16px;font-weight:700;fill:#fff;text-anchor:middle}.t{font-size:18px;font-weight:700;fill:#1e293b}.l{font-size:14.6px;fill:#475569}.h{font-size:20px;font-weight:700;fill:#1e293b;text-anchor:middle}</style>
+<rect width="100%" height="100%" fill="#fff"/>
+<rect class="b" x="16" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="48" cy="48" r="15"/>
+<text class="n" x="48" y="54">1</text>
+<text class="t" x="34" y="94">Dyadic VR</text>
+<text class="l" x="34" y="122">31 dyads, 62 people</text>
+<text class="l" x="34" y="144.6">One driver and one</text>
+<text class="l" x="34" y="167.3">pedestrian per dyad</text>
+<text class="l" x="34" y="189.9">in a shared street</text>
+<path class="a" d="M220.4 114.2h28"/><path class="p" d="M252.4 114.2l-10 -7v14z"/>
+<rect class="b" x="258.4" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="290.4" cy="48" r="15"/>
+<text class="n" x="290.4" y="54">2</text>
+<text class="t" x="276.4" y="94">Encounters</text>
+<text class="l" x="276.4" y="122">Six intersection</text>
+<text class="l" x="276.4" y="144.6">scenarios with</text>
+<text class="l" x="276.4" y="167.3">ambiguous right</text>
+<text class="l" x="276.4" y="189.9">of way</text>
+<path class="a" d="M462.8 114.2h28"/><path class="p" d="M494.8 114.2l-10 -7v14z"/>
+<rect class="b" x="500.8" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="532.8" cy="48" r="15"/>
+<text class="n" x="532.8" y="54">3</text>
+<text class="t" x="518.8" y="94">SA questions</text>
+<text class="l" x="518.8" y="122">Mirrored items for</text>
+<text class="l" x="518.8" y="144.6">both roles at three</text>
+<text class="l" x="518.8" y="167.3">SA levels, scored vs</text>
+<text class="l" x="518.8" y="189.9">logged ground truth</text>
+<path class="a" d="M705.2 114.2h28"/><path class="p" d="M737.2 114.2l-10 -7v14z"/>
+<rect class="b" x="743.2" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="775.2" cy="48" r="15"/>
+<text class="n" x="775.2" y="54">4</text>
+<text class="t" x="761.2" y="94">Dyad-level SSA</text>
+<text class="l" x="761.2" y="122">Both right, one right</text>
+<text class="l" x="761.2" y="144.6">or both wrong</text>
+<text class="l" x="761.2" y="167.3">Cross-perception</text>
+<text class="l" x="761.2" y="189.9">agreement (kappa)</text>
+<path class="a" d="M947.6 114.2h28"/><path class="p" d="M979.6 114.2l-10 -7v14z"/>
+<rect class="b" x="985.6" y="16" width="198.4" height="196.5" rx="14"/>
+<circle class="c" cx="1017.6" cy="48" r="15"/>
+<text class="n" x="1017.6" y="54">5</text>
+<text class="t" x="1003.6" y="94">Experience</text>
+<text class="l" x="1003.6" y="122">Hesitation, stress</text>
+<text class="l" x="1003.6" y="144.6">and relaxation</text>
+<text class="l" x="1003.6" y="167.3">ratings, plus</text>
+<text class="l" x="1003.6" y="189.9">interviews</text>
+</svg>

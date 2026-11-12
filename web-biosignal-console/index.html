@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Web Biosignal Console · Xiang Chang</title>
+  <meta name="description" content="A single-file browser console that records ECG, skin conductance and accelerometry from Polar, Nervous EDA and Arduino GSR sensors on one shared clock, with CSV output.">
+  <meta name="keywords" content="physiological sensing, ECG, EDA, GSR, Polar H10, Web Bluetooth, Web Serial, data synchronization">
+  <meta name="author" content="Xiang Chang">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Xiang Chang">
+  <meta property="og:title" content="Web Biosignal Console: Synchronized ECG, EDA and Accelerometry Recording in the Browser">
+  <meta property="og:description" content="A single-file browser console that records ECG, skin conductance and accelerometry from Polar, Nervous EDA and Arduino GSR sensors on one shared clock, with CSV output.">
+  <meta property="og:url" content="https://changxiang-scu.github.io/web-biosignal-console/">
+  <meta property="og:image" content="https://changxiang-scu.github.io/web-biosignal-console/static/teaser.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Web Biosignal Console: Synchronized ECG, EDA and Accelerometry Recording in the Browser">
+  <meta name="twitter:description" content="A single-file browser console that records ECG, skin conductance and accelerometry from Polar, Nervous EDA and Arduino GSR sensors on one shared clock, with CSV output.">
+
+  <meta name="theme-color" content="#2563eb">
+  <link rel="icon" type="image/x-icon" href="../images/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="../assets/css/academicons.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../projects/static/css/index.css">
+  <script defer src="../projects/static/js/index.js"></script>
+</head>
+<body>
+
+  <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+  <div class="more-works-container">
+    <button class="more-works-btn" onclick="toggleMoreWorks()" title="More works by Xiang Chang">
+      <i class="fas fa-flask"></i>
+      More Works
+      <i class="fas fa-chevron-down dropdown-arrow"></i>
+    </button>
+    <div class="more-works-dropdown" id="moreWorksDropdown">
+      <div class="dropdown-header">
+        <h4>More Works by Xiang Chang</h4>
+        <button class="close-btn" onclick="toggleMoreWorks()" aria-label="Close"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="works-list">
+        <a href="../gesture-ehmi/" class="work-item">
+          <div class="work-info">
+            <h5>Gesture-Based Interaction between AVs and Pedestrians</h5>
+            <p>A virtual-hand eHMI that lets an autonomous vehicle gesture its yielding intent to pedestrians, tested in VR (N = 31) and an online survey (N = 394).</p>
+            <span class="work-venue">CHI 2024</span>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="../robotaxi-pedestrian-trust/" class="work-item">
+          <div class="work-info">
+            <h5>Pedestrian Trust after Interacting with Robotaxis on Public Roads</h5>
+            <p>An on-road study of how pedestrians&#x27; trust in AVs forms through repeated crossings in front of Level-4 robotaxis at an uncontrolled intersection.</p>
+            <span class="work-venue">HFES ASPIRE 2025</span>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="../dual-egpu-moe-llm/" class="work-item">
+          <div class="work-info">
+            <h5>A 176B MoE LLM on a Handheld over Two eGPUs</h5>
+            <p>Running a 176B mixture-of-experts model across two RX 6950XT eGPUs on a handheld PC, and what a 27B dense model teaches about the same hardware.</p>
+            <span class="work-venue">Open-source notes</span>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="../projects/" class="work-item">
+          <div class="work-info">
+            <h5>All papers and projects</h5>
+            <p>Overview of Xiang Chang's publications and open-source projects.</p>
+          </div>
+          <i class="fas fa-arrow-right"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <main id="main-content">
+<section class="hero publication-header">
+  <div class="home-link-container">
+    <a class="home-link" href="https://changxiang-scu.github.io/"><i class="fas fa-house"></i> Xiang Chang</a>
+  </div>
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">Web Biosignal Console: Synchronized ECG, EDA and Accelerometry Recording in the Browser</h1>
+          <div class="is-size-5 publication-authors">
+              <span class="author-block"><a href="https://changxiang-scu.github.io/" target="_blank" rel="noopener"><span class="me">Xiang Chang</span></a></span>
+          </div>
+          <div class="is-size-5 publication-authors">
+            
+            <span class="publication-venue">Open-source tool · 2026</span>
+            
+          </div>
+          <div class="column has-text-centered">
+            <div class="publication-links">
+                <span class="link-block">
+                  <a href="https://github.com/ChangXiang-SCU/web-biosignal-console" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fab fa-github"></i></span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://github.com/ChangXiang-SCU/web-biosignal-console/blob/main/docs/usage-guide.md" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fas fa-book"></i></span>
+                    <span>Usage Guide</span>
+                  </a>
+                </span>
+                <span class="link-block">
+                  <a href="https://github.com/ChangXiang-SCU/web-biosignal-console/blob/main/docs/technical-reference.md" target="_blank" rel="noopener" class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fas fa-book"></i></span>
+                    <span>Technical Reference</span>
+                  </a>
+                </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Teaser figure: replace web-biosignal-console/static/teaser.png (see PR notes for which figure to use) -->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <div class="figure-frame">
+        <img src="static/teaser.png" alt="Screenshot of the Web Biosignal Console recording ECG, EDA and accelerometry" onerror="this.onerror=null;this.parentNode.classList.add('is-missing');">
+        <div class="figure-missing"><i class="far fa-image"></i><span>Figure placeholder</span><code>static/teaser.png</code></div>
+      </div>
+      <h2 class="subtitle has-text-centered figure-caption">One page in Chrome: connect the sensors, tick the streams, record, and add event markers on the same time axis.</h2>
+    </div>
+  </div>
+</section>
+
+<section class="section hero is-light" id="abstract">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Overview</h2>
+        <div class="content has-text-justified">
+          <p>Off-the-shelf tools record one sensor each and leave the hardest part, aligning their clocks, to the analyst. In our setup the Polar H10's internal clock had never been set and reported 2019, while the EDA sensor reported correct POSIX time: a 7.7-year gap between two devices recording the same person at the same moment.</p>
+          <p>Web Biosignal Console is a single HTML file that records ECG, skin conductance (EDA/GSR) and accelerometry at the same time, anchors every device to the host clock at its first packet, and writes CSV to disk. There is nothing to install: no drivers and no Python runtime. Open it in Chrome or Edge and record.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section hero page-section" id="design">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full">
+        <h2 class="title is-3 has-text-centered">How It Works</h2>
+      <div class="diagram-frame">
+        <picture>
+          <source media="(max-width: 640px)" srcset="static/overview-tall.svg">
+          <img src="static/overview-wide.svg" alt="Data flow: sensors, browser transports, shared host clock, CSV output" loading="lazy">
+        </picture>
+        <p class="figure-caption">Every stream is anchored to the host clock and logged with its own sync and link metadata.</p>
+      </div>
+        <div class="content">
+          <div class="table-wrap">
+            <table class="table is-fullwidth is-striped">
+              <thead><tr><th>Channel</th><th>Device</th><th>Transport</th><th>Measured rate</th></tr></thead>
+              <tbody>
+                <tr><td>ECG</td><td>Polar H10 chest strap</td><td>Web Bluetooth (Polar PMD)</td><td>129.4 to 129.9 Hz</td></tr>
+                <tr><td>ACC</td><td>Polar H10 / Verity Sense</td><td>Web Bluetooth (Polar PMD)</td><td>~202.6 Hz / 416 Hz</td></tr>
+                <tr><td>PPG</td><td>Polar Verity Sense</td><td>Web Bluetooth (Polar PMD)</td><td>176 Hz</td></tr>
+                <tr><td>EDA</td><td>Nervous EDA (16-frequency impedance spectroscopy)</td><td>Web Bluetooth (Nordic UART)</td><td>8.001 Hz</td></tr>
+                <tr><td>GSR</td><td>Arduino + analog GSR module</td><td>Web Serial (CH340)</td><td>10.00 Hz</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p>Every rate above was measured on real hardware. Several devices of the same type can be connected at once; each gets its own card and its own labelled column block in the CSV.</p>
+          <h3>Auditable alignment</h3>
+          <p>Each CSV carries three header sections before the data: <strong>MARKERS</strong> (event marks on the shared time axis), <strong>LINK EVENTS</strong> (Bluetooth disconnects and reconnects, so gaps are traceable) and <strong>SYNC</strong> (per-device clock offset, skew, transport latency and jitter). The <code>unix_host_ms</code> column is directly comparable across devices.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section hero is-light page-section" id="details">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-full">
+        <h2 class="title is-3 has-text-centered">Engineering Details</h2>
+        <div class="content">
+          <h3>Low-noise Arduino GSR</h3>
+          <p>The GSR sketch integrates over a 100 ms window, exactly 5 mains cycles at 50 Hz and 6 at 60 Hz, so line-frequency pickup cancels in either region. It reports the floating-point average instead of rounding: with about 900 oversamples, effective resolution improves from about 0.05 &micro;S to about 0.003 &micro;S, below the conventional 0.05 &micro;S minimum amplitude of a valid skin conductance response.</p>
+          <h3>Reverse-engineered EDA protocol</h3>
+          <p>The retail BLE EDA device identifies itself as a Nervous EDA sensor (INSA Lyon open hardware). The console speaks its Nordic UART Service protocol (COBS framing, Protocol Buffers payload, 16 complex impedances per frame) and computes a contact-quality metric, <code>EDA_Cfit</code>, from the fit of the 16 impedance points to a Nyquist circle.</p>
+          <h3>Honest validation</h3>
+          <p>On our unit, the EDA channel did not pass physiological validation during a mental-arithmetic stressor (r = &minus;0.19 against simultaneously recorded heart rate), while the Arduino GSR channel did (r = +0.674). This is a single device and says nothing about the model in general; the repository documents the test so others can validate their own unit.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content has-text-centered">
+            <p><a href="https://changxiang-scu.github.io/">Xiang Chang</a> · <a href="../projects/">All papers and projects</a></p>
+            <p>
+              This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank" rel="noopener">Academic Project Page Template</a>, which was adopted from the <a href="https://nerfies.github.io" target="_blank" rel="noopener">Nerfies</a> project page.
+              This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
